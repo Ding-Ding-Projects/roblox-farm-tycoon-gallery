@@ -296,9 +296,9 @@
   ],
   "excluded": [
     {
-      "reason": "Raw temporary asset-review stages, excluded from the finished world gallery",
+      "reason": "Raw temporary native-asset review stages, including factory and front inspections, without accepted game-integration provenance",
       "category": "temporary factory review images",
-      "count": 9
+      "count": 11
     },
     {
       "reason": "Contains an avatar and was excluded from public publication",
