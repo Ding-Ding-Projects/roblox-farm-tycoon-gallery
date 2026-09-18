@@ -1,110 +1,314 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "newCaptureCount": 12,
+  "publishedCaptureCount": 29,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
       "image": "barn-dry-hay-entrance.png",
       "category": "world-realism",
       "capturedAt": "2026-09-18T15:42:17.085603-04:00",
+      "executionMode": "Edit",
       "state": "Edit barn turning entrance and warm hay after refinement",
-      "privacy": "game-world-only"
+      "privacy": "game-world-only",
+      "sha256": "5bf68b02e2dc9abe712d3596ca75e96931d2702e210c465052cbbe0a291fe72c"
     },
     {
       "id": "barn-dry-hay",
       "image": "barn-dry-hay.png",
       "category": "world-realism",
       "capturedAt": "2026-09-18T15:42:16.336813-04:00",
+      "executionMode": "Edit",
       "state": "Edit warm compressed bales on supported timber loft; built-in woven material",
-      "privacy": "game-world-only"
+      "privacy": "game-world-only",
+      "sha256": "0c52099326eac5b37b45359bb22688c740dd6467338c4df7aa2360eea06f97f9"
     },
     {
-      "id": "exterior-barn-verified",
-      "image": "exterior-barn-verified.png",
-      "category": "world-realism",
-      "capturedAt": "2026-09-18T14:57:03.344561-04:00",
-      "state": "exterior material and doorway inspection",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "timber-barn-verified",
-      "image": "timber-barn-verified.png",
-      "category": "world-realism",
-      "capturedAt": "2026-09-18T14:57:02.479054-04:00",
-      "state": "geometry accepted; first barn inspection",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "housed-chicken-collected",
-      "image": "housed-chicken-collected.png",
-      "category": "animal-care",
-      "capturedAt": "2026-09-18T15:16:36.114099-04:00",
-      "state": "Play owned chicken after real E collection",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "housed-chicken-stable",
-      "image": "housed-chicken-stable.png",
-      "category": "animal-care",
-      "capturedAt": "2026-09-18T15:15:43.799036-04:00",
-      "state": "Play owned chicken after repeated support contact verification",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "depot-lcd-final-226",
-      "image": "depot-lcd-final-226.png",
-      "category": "depot-fire-safety",
-      "capturedAt": "2026-09-18T18:11:55.426897-04:00",
-      "state": "Play original native LCD with verified aspect and orientation; face 226",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "depot-lcd-final-276",
-      "image": "depot-lcd-final-276.png",
-      "category": "depot-fire-safety",
-      "capturedAt": "2026-09-18T18:11:56.159975-04:00",
-      "state": "Play original native LCD with verified aspect and orientation; face 276",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "depot-lcd-final-39",
-      "image": "depot-lcd-final-39.png",
-      "category": "depot-fire-safety",
-      "capturedAt": "2026-09-18T18:11:54.043022-04:00",
-      "state": "Play original native LCD with verified aspect and orientation; face 39",
-      "privacy": "game-world-only"
-    },
-    {
-      "id": "depot-lcd-final-98",
-      "image": "depot-lcd-final-98.png",
-      "category": "depot-fire-safety",
-      "capturedAt": "2026-09-18T18:11:54.810891-04:00",
-      "state": "Play original native LCD with verified aspect and orientation; face 98",
-      "privacy": "game-world-only"
+      "id": "full-size-barn-interior",
+      "image": "barn-interior-entered.png",
+      "category": "earlier",
+      "capturedAt": "2026-09-18T01:28:27.083862-04:00",
+      "executionMode": "Play",
+      "state": "actual doorway entry completed; no floating product interface",
+      "privacy": "game-world-only",
+      "sha256": "94fc9903031e51ce5780543d7a1da7cd7682aeefd96ec87623436441a0d17f6d"
     },
     {
       "id": "barn-resting-lounge",
       "image": "barn-resting-lounge.png",
       "category": "amenities",
       "capturedAt": "2026-09-18T18:54:37.641044-04:00",
+      "executionMode": "Play",
       "state": "Native owner fixture barn lounge; fourteen builds pass, full negative suite pending",
-      "privacy": "game-world-only"
+      "privacy": "game-world-only",
+      "sha256": "1270276807e4bc1ca69657701c5dd9ac509057fb94cc0a2a451fdcaa32a62106"
     },
     {
       "id": "barn-restroom-fixtures",
       "image": "barn-restroom-fixtures.png",
       "category": "amenities",
       "capturedAt": "2026-09-18T18:54:38.374088-04:00",
+      "executionMode": "Play",
       "state": "Native owner fixture barn restroom; fixture facing and support under verification",
-      "privacy": "game-world-only"
+      "privacy": "game-world-only",
+      "sha256": "83dadec4f9e0f536de0166dd8da349f450ff282b3e642cd027b43026b605ea4d"
+    },
+    {
+      "id": "depot-lcd-final-226",
+      "image": "depot-lcd-final-226.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:55.426897-04:00",
+      "executionMode": "Play",
+      "state": "Play original native LCD with verified aspect and orientation; face 226",
+      "privacy": "game-world-only",
+      "sha256": "d041660d591494e859257652255c205fa262e1db71f3d2f610ff4f28e27e378b"
+    },
+    {
+      "id": "depot-lcd-final-276",
+      "image": "depot-lcd-final-276.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:56.159975-04:00",
+      "executionMode": "Play",
+      "state": "Play original native LCD with verified aspect and orientation; face 276",
+      "privacy": "game-world-only",
+      "sha256": "3c1ba59570dc8e3d96685999ea90e5452485c76b86d6cf7c177f346b50690295"
+    },
+    {
+      "id": "depot-lcd-final-39",
+      "image": "depot-lcd-final-39.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:54.043022-04:00",
+      "executionMode": "Play",
+      "state": "Play original native LCD with verified aspect and orientation; face 39",
+      "privacy": "game-world-only",
+      "sha256": "7e243df8391e981f827057dbe43352a079e4b755ecdf1e32fbbe10c93e7d5161"
+    },
+    {
+      "id": "depot-lcd-final-98",
+      "image": "depot-lcd-final-98.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:54.810891-04:00",
+      "executionMode": "Play",
+      "state": "Play original native LCD with verified aspect and orientation; face 98",
+      "privacy": "game-world-only",
+      "sha256": "3fdc40f0e6e73c82cce1f079a637242e54ed00f487c76cc0dbcb1718633e8cd5"
+    },
+    {
+      "id": "exterior-barn-verified",
+      "image": "exterior-barn-verified.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-18T14:57:03.344561-04:00",
+      "executionMode": "Edit",
+      "state": "exterior material and doorway inspection",
+      "privacy": "game-world-only",
+      "sha256": "b2ac73cc0bd70b8a0d9c1c91f7a47fa9aa699717d45dad319e6e09fa70d7ffcd"
+    },
+    {
+      "id": "farm-1-barn",
+      "image": "farm-1-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:42.569523-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "68a6a0c62ea8470487f6c1ac187419bfb5e67d16f82fe836e96d5c5fa6e9d9e8"
+    },
+    {
+      "id": "farm-2-barn",
+      "image": "farm-2-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:43.317966-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "95aa1186db0acc17b5a06e49815544d7b9b68aa07e172ec30b777a1d2dad5722"
+    },
+    {
+      "id": "farm-3-barn",
+      "image": "farm-3-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:44.034366-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "b5305983d872ab63e04aca71ae266c45afa47f44a4a013d68aab030d3a08b664"
+    },
+    {
+      "id": "farm-4-barn",
+      "image": "farm-4-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:44.76791-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "a5fd526968f1cfe1ac75ecd179e350355dedb7bc7dfec9cf9cdbf0318920fddb"
+    },
+    {
+      "id": "farm-5-barn",
+      "image": "farm-5-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:45.517688-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "e893ef0697ec22ee5412f5444bf6c54983ed799f2f033651e65db99bc5376040"
+    },
+    {
+      "id": "farm-6-barn",
+      "image": "farm-6-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:46.235515-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "b1b145717352a36620718226066d199dd49acfff06d92041bfc7da3bebdb0547"
+    },
+    {
+      "id": "farm-7-barn",
+      "image": "farm-7-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:46.918507-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "6371aff968e633908c92f719c6bb55add83b34b201d3535d1ea1e7a4b80c7bff"
+    },
+    {
+      "id": "farm-8-barn",
+      "image": "farm-8-barn.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:47.65163-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "7c73471be3afe9a96ff81f041072f94e1dfc84c085f8d8f365180655f29d024d"
+    },
+    {
+      "id": "housed-chicken-collected",
+      "image": "housed-chicken-collected.png",
+      "category": "animal-care",
+      "capturedAt": "2026-09-18T15:16:36.114099-04:00",
+      "executionMode": "Play",
+      "state": "Play owned chicken after real E collection",
+      "privacy": "game-world-only",
+      "sha256": "57b30b49d50b7fc03796d5ffe9d4bf407f658d53d75c41aefd30c12590fbe583"
+    },
+    {
+      "id": "housed-chicken-stable",
+      "image": "housed-chicken-stable.png",
+      "category": "animal-care",
+      "capturedAt": "2026-09-18T15:15:43.799036-04:00",
+      "executionMode": "Play",
+      "state": "Play owned chicken after repeated support contact verification",
+      "privacy": "game-world-only",
+      "sha256": "d1ee62eb249392e2644cab9ba56ab91715c77f4c3206d72042f19f1a95649506"
+    },
+    {
+      "id": "timber-barn-verified",
+      "image": "timber-barn-verified.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-18T14:57:02.479054-04:00",
+      "executionMode": "Edit",
+      "state": "geometry accepted; first barn inspection",
+      "privacy": "game-world-only",
+      "sha256": "c43a52bc96e3ba77d1003b5aae395c476a79a0ae23012a9e6b3a29ae87f90f6f"
+    },
+    {
+      "id": "town-depot",
+      "image": "town-depot.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:50.567615-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "e2e402f53c3437d26dbe005cb3f27d5bd4b871914559b007b2b74150fb323789"
+    },
+    {
+      "id": "bilingual-town-hud",
+      "image": "town-header-683.png",
+      "category": "earlier",
+      "capturedAt": "2026-09-18T00:44:03.573109-04:00",
+      "executionMode": "Play",
+      "state": "header paired rows; panel closed",
+      "privacy": "game-world-only",
+      "sha256": "fcbfdcd2444ecdfcb1707d8d7f9a12329056870e7f2e9787338c736a65e4f270"
+    },
+    {
+      "id": "town-hotel",
+      "image": "town-hotel.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:51.253206-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "358cd42912a21193a14747748a23a8eb30ee10a5ca0d3f02230e7e08038144ed"
+    },
+    {
+      "id": "town-market",
+      "image": "town-market.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:48.368867-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "e72f09a6f7bae9b738986823549cc9c36323cd578648f374b130aad70dd2a9b8"
+    },
+    {
+      "id": "town-restaurant",
+      "image": "town-restaurant.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:49.068385-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "4ea8917e48e098fa751c0f84bdafcd62161080a9825ff3a6f5999aa7ade3f990"
+    },
+    {
+      "id": "town-supplies",
+      "image": "town-supplies.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:49.818012-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "38cd9e9a0b91c590dba74756c6bca527c6e7318b8789a8e441fa03bf6748fb50"
+    },
+    {
+      "id": "town-wc",
+      "image": "town-wc.png",
+      "category": "interior",
+      "capturedAt": "2026-09-18T01:55:52.01874-04:00",
+      "executionMode": "Play",
+      "state": "furnished interior overview; no product HUD",
+      "privacy": "game-world-only",
+      "sha256": "8657ffeaa3a4ffb0e1fe5bc4cb46750dd6f6c432d1a8cdabea2de3377e9d9b02"
+    },
+    {
+      "id": "first-harvest-hud",
+      "image": "verified-hud.png",
+      "category": "earlier",
+      "capturedAt": "2026-09-18T02:41:54Z",
+      "executionMode": "Play",
+      "state": "first harvest completed; detail panel closed",
+      "privacy": "game-world-only",
+      "sha256": "ec1fbc416f351da83d1559327c905f5f23f50eed731ae5e4905824d726e7ac3e"
     }
   ],
   "excluded": [
     {
-      "reason": "Contains internal provenance fields not needed for public viewing",
+      "reason": "Raw temporary asset-review stages, excluded from the finished world gallery",
+      "category": "temporary factory review images",
+      "count": 9
+    },
+    {
+      "reason": "Contains an avatar and was excluded from public publication",
+      "category": "avatar-containing amenity preview",
+      "count": 1
+    },
+    {
+      "reason": "Internal provenance records are not needed for public viewing",
       "category": "receipt JSON",
-      "count": 12
+      "count": 29
     },
     {
       "reason": "Excluded by publication boundary",
