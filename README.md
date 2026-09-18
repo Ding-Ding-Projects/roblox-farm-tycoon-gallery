@@ -4,4 +4,4 @@ Public visual gallery of 17 genuine Play-session captures: 14 visually inspected
 
 The gallery is a public presentation of development evidence. It does not claim that the game is complete, that the images are final art, or that the experience is photorealistic. The interior captures were recorded on September 18, 2026 and exclude desktop, editor, system, and personal surfaces.
 
-The gallery is a standalone static site for GitHub Pages. Its source images are copied from the reviewed evidence set in the private development repository; no place file or private source code is published.
+The gallery is a standalone static site for GitHub Pages. Its source images are copied from the reviewed evidence set in the development repository; no place file or source code is published.
