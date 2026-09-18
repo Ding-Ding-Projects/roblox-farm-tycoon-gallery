@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "validated capture receipts",
+  "newCaptureCount": 12,
+  "publishable": [
+    {
+      "id": "barn-dry-hay-entrance",
+      "image": "barn-dry-hay-entrance.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-18T15:42:17.085603-04:00",
+      "state": "Edit barn turning entrance and warm hay after refinement",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "barn-dry-hay",
+      "image": "barn-dry-hay.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-18T15:42:16.336813-04:00",
+      "state": "Edit warm compressed bales on supported timber loft; built-in woven material",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "exterior-barn-verified",
+      "image": "exterior-barn-verified.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-18T14:57:03.344561-04:00",
+      "state": "exterior material and doorway inspection",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "timber-barn-verified",
+      "image": "timber-barn-verified.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-18T14:57:02.479054-04:00",
+      "state": "geometry accepted; first barn inspection",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "housed-chicken-collected",
+      "image": "housed-chicken-collected.png",
+      "category": "animal-care",
+      "capturedAt": "2026-09-18T15:16:36.114099-04:00",
+      "state": "Play owned chicken after real E collection",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "housed-chicken-stable",
+      "image": "housed-chicken-stable.png",
+      "category": "animal-care",
+      "capturedAt": "2026-09-18T15:15:43.799036-04:00",
+      "state": "Play owned chicken after repeated support contact verification",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "depot-lcd-final-226",
+      "image": "depot-lcd-final-226.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:55.426897-04:00",
+      "state": "Play original native LCD with verified aspect and orientation; face 226",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "depot-lcd-final-276",
+      "image": "depot-lcd-final-276.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:56.159975-04:00",
+      "state": "Play original native LCD with verified aspect and orientation; face 276",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "depot-lcd-final-39",
+      "image": "depot-lcd-final-39.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:54.043022-04:00",
+      "state": "Play original native LCD with verified aspect and orientation; face 39",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "depot-lcd-final-98",
+      "image": "depot-lcd-final-98.png",
+      "category": "depot-fire-safety",
+      "capturedAt": "2026-09-18T18:11:54.810891-04:00",
+      "state": "Play original native LCD with verified aspect and orientation; face 98",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "barn-resting-lounge",
+      "image": "barn-resting-lounge.png",
+      "category": "amenities",
+      "capturedAt": "2026-09-18T18:54:37.641044-04:00",
+      "state": "Native owner fixture barn lounge; fourteen builds pass, full negative suite pending",
+      "privacy": "game-world-only"
+    },
+    {
+      "id": "barn-restroom-fixtures",
+      "image": "barn-restroom-fixtures.png",
+      "category": "amenities",
+      "capturedAt": "2026-09-18T18:54:38.374088-04:00",
+      "state": "Native owner fixture barn restroom; fixture facing and support under verification",
+      "privacy": "game-world-only"
+    }
+  ],
+  "excluded": [
+    {
+      "reason": "Contains internal provenance fields not needed for public viewing",
+      "category": "receipt JSON",
+      "count": 12
+    },
+    {
+      "reason": "Excluded by publication boundary",
+      "category": "private source and place data",
+      "count": 1
+    }
+  ]
+}
