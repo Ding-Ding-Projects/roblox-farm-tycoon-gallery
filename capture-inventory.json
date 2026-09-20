@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 36,
+  "publishedCaptureCount": 40,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -362,18 +362,58 @@
       "state": "physical ledger before purchase; purchase failed and no animal was granted",
       "category": "livestock ledger",
       "sha256": "c708ed3a60d970acb878337edd7cbdb87ac18d32d2c731e9c48e9928d5c1edfc"
+    },
+    {
+      "image": "livestock-ledger-before-purchase.png",
+      "category": "livestock purchase",
+      "id": "livestock-ledger-before-purchase",
+      "state": "physical ledger before actual chicken purchase; historical pre-sign-fix overlap",
+      "capturedAt": "2026-09-20T05:29:26.835577+00:00",
+      "executionMode": "Play",
+      "sha256": "9a3785df05d9adb571f5ff6ce849191f21f6ccbbfbbbd1a1be8455d5a2b9329b",
+      "privacy": "game-world-only"
+    },
+    {
+      "image": "livestock-ledger-after-purchase.png",
+      "category": "livestock purchase",
+      "id": "livestock-ledger-after-purchase",
+      "state": "physical ledger after actual chicken purchase; historical pre-sign-fix overlap",
+      "capturedAt": "2026-09-20T05:29:28.435765+00:00",
+      "executionMode": "Play",
+      "sha256": "25dd8e4d82b24f21c52e04afbca5c7b2deb3fd71609dbabb6b46aec15f7ac37a",
+      "privacy": "game-world-only"
+    },
+    {
+      "image": "livestock-ledger-clear.png",
+      "category": "livestock purchase",
+      "id": "livestock-ledger-clear",
+      "state": "ledger after committed idle-sign naming declaration and actual close/reopen",
+      "capturedAt": "2026-09-20T05:32:52.495191+00:00",
+      "executionMode": "Play",
+      "sha256": "c0dce43c97301890dd02c29b8bfc6479121bf73d0cbf5f2376acda957f54498c",
+      "privacy": "game-world-only"
+    },
+    {
+      "image": "owned-chicken-purchased.png",
+      "category": "livestock purchase",
+      "id": "owned-chicken-purchased",
+      "state": "paid chicken in owned stall after actual 75-coin purchase; feeding unverified",
+      "capturedAt": "2026-09-20T05:34:39.506478+00:00",
+      "executionMode": "Play",
+      "sha256": "792f3a8d590f6fe14b72e6d29ebf72e6be361b421e4c5d6d91d08f87f663e150",
+      "privacy": "game-world-only"
     }
   ],
   "excluded": [
     {
       "category": "temporary native review images",
       "count": 15,
-      "reason": "Raw temporary native-asset review stages, including 11 prior factory/front inspections and 4 superseded or failed intro attempts, without accepted game-integration provenance"
+      "reason": "Raw temporary native-asset review stages, including prior factory/front inspections and superseded or failed intro attempts, without accepted game-integration provenance"
     },
     {
       "category": "avatar-containing captures",
       "count": 2,
-      "reason": "One amenity preview and the earned empty barn contain account avatars and were excluded from public publication"
+      "reason": "Earlier amenity preview and earned empty barn contain account avatars and were excluded"
     },
     {
       "category": "unavailable evidence",
@@ -382,7 +422,7 @@
     },
     {
       "category": "receipt JSON",
-      "count": 36,
+      "count": 40,
       "reason": "Internal provenance records are not needed for public viewing"
     },
     {
