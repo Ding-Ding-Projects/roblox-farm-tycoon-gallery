@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 29,
+  "publishedCaptureCount": 36,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -292,28 +292,96 @@
       "state": "first harvest completed; detail panel closed",
       "privacy": "game-world-only",
       "sha256": "ec1fbc416f351da83d1559327c905f5f23f50eed731ae5e4905824d726e7ac3e"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "2026-09-20T04:12:09.813761+00:00",
+      "image": "intro-join-claim-before.png",
+      "id": "intro-join-claim-before",
+      "privacy": "game-world-only",
+      "state": "accepted plot selection and claim before input",
+      "category": "intro autosave"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "2026-09-20T04:12:12.014924+00:00",
+      "image": "intro-join-claim-after.png",
+      "id": "intro-join-claim-after",
+      "privacy": "game-world-only",
+      "state": "accepted plot selection and claim after actual input",
+      "category": "intro autosave"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "2026-09-20T04:12:15.080931+00:00",
+      "image": "intro-preferences-confirmed.png",
+      "id": "intro-preferences-confirmed-session-only",
+      "privacy": "game-world-only",
+      "state": "confirmed language preference with session-only save",
+      "category": "intro autosave"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "2026-09-20T03:06:58.688297+00:00",
+      "image": "settings-stats-hud.png",
+      "id": "settings-hud-native",
+      "privacy": "game-world-only",
+      "state": "settings modal and read-only session stats",
+      "category": "settings and stats"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "2026-09-20T03:55:04.538275+00:00",
+      "image": "personal-barn-native.png",
+      "id": "personal-barn-native",
+      "privacy": "game-world-only",
+      "state": "controlled personal barn fixture with owned animals; historical scenery notice",
+      "category": "historical fixture"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "2026-09-20T04:30:27.910555+00:00",
+      "image": "earned-barn-clear.png",
+      "id": "earned-barn-clear",
+      "privacy": "game-world-only",
+      "state": "earned barn ready and empty; corrected notice",
+      "category": "earned barn"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "unavailable",
+      "image": "ledger-before-purchase.png",
+      "id": "ledger-before-purchase",
+      "privacy": "game-world-only",
+      "state": "physical ledger before purchase; purchase failed and no animal was granted",
+      "category": "livestock ledger"
     }
   ],
   "excluded": [
     {
-      "reason": "Raw temporary native-asset review stages, including factory and front inspections, without accepted game-integration provenance",
-      "category": "temporary factory review images",
-      "count": 11
+      "category": "temporary native review images",
+      "count": 15,
+      "reason": "Raw temporary native-asset review stages, including 11 prior factory/front inspections and 4 superseded or failed intro attempts, without accepted game-integration provenance"
     },
     {
-      "reason": "Contains an avatar and was excluded from public publication",
-      "category": "avatar-containing amenity preview",
-      "count": 1
+      "category": "avatar-containing captures",
+      "count": 2,
+      "reason": "One amenity preview and the earned empty barn contain account avatars and were excluded from public publication"
     },
     {
-      "reason": "Internal provenance records are not needed for public viewing",
+      "category": "unavailable evidence",
+      "count": 1,
+      "reason": "Livestock startup evidence was unavailable and no image was published"
+    },
+    {
       "category": "receipt JSON",
-      "count": 29
+      "count": 36,
+      "reason": "Internal provenance records are not needed for public viewing"
     },
     {
-      "reason": "Excluded by publication boundary",
       "category": "private source and place data",
-      "count": 1
+      "count": 1,
+      "reason": "Excluded by publication boundary"
     }
   ]
 }
