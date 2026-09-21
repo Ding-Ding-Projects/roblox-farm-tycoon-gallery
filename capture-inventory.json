@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 45,
+  "publishedCaptureCount": 46,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -368,7 +368,7 @@
       "category": "livestock purchase",
       "id": "livestock-ledger-before-purchase",
       "state": "physical ledger before actual chicken purchase; historical pre-sign-fix overlap",
-      "capturedAt": "2026-09-20T05:29:26.835577+00:00",
+      "capturedAt": "2026-09-20T01:29:26.835577-04:00",
       "executionMode": "Play",
       "sha256": "9a3785df05d9adb571f5ff6ce849191f21f6ccbbfbbbd1a1be8455d5a2b9329b",
       "privacy": "game-world-only"
@@ -378,7 +378,7 @@
       "category": "livestock purchase",
       "id": "livestock-ledger-after-purchase",
       "state": "physical ledger after actual chicken purchase; historical pre-sign-fix overlap",
-      "capturedAt": "2026-09-20T05:29:28.435765+00:00",
+      "capturedAt": "2026-09-20T01:29:28.435765-04:00",
       "executionMode": "Play",
       "sha256": "25dd8e4d82b24f21c52e04afbca5c7b2deb3fd71609dbabb6b46aec15f7ac37a",
       "privacy": "game-world-only"
@@ -388,7 +388,7 @@
       "category": "livestock purchase",
       "id": "livestock-ledger-clear",
       "state": "ledger after committed idle-sign naming declaration and actual close/reopen",
-      "capturedAt": "2026-09-20T05:32:52.495191+00:00",
+      "capturedAt": "2026-09-20T01:32:52.495191-04:00",
       "executionMode": "Play",
       "sha256": "c0dce43c97301890dd02c29b8bfc6479121bf73d0cbf5f2376acda957f54498c",
       "privacy": "game-world-only"
@@ -398,7 +398,7 @@
       "category": "livestock purchase",
       "id": "owned-chicken-purchased",
       "state": "paid chicken in owned stall after actual 75-coin purchase; feeding unverified",
-      "capturedAt": "2026-09-20T05:34:39.506478+00:00",
+      "capturedAt": "2026-09-20T01:34:39.506478-04:00",
       "executionMode": "Play",
       "sha256": "792f3a8d590f6fe14b72e6d29ebf72e6be361b421e4c5d6d91d08f87f663e150",
       "privacy": "game-world-only"
@@ -407,7 +407,7 @@
       "id": "personal-starter-selector-clear",
       "image": "personal-starter-selector-clear.png",
       "category": "development-observation",
-      "capturedAt": "2026-09-20T22:33:23.712667+00:00",
+      "capturedAt": "2026-09-20T18:33:23.712667-04:00",
       "executionMode": "Play",
       "state": "Physical crop selection in Studio. Final interface realism remains unfinished.",
       "privacy": "game-world-only",
@@ -418,7 +418,7 @@
       "id": "personal-depot-controller-clear",
       "image": "personal-depot-controller-clear.png",
       "category": "development-observation",
-      "capturedAt": "2026-09-20T22:47:55.859907+00:00",
+      "capturedAt": "2026-09-20T18:47:55.859907-04:00",
       "executionMode": "Play",
       "state": "Reviewed native controller after actual open input in a controlled personal-building fixture.",
       "privacy": "game-world-only",
@@ -429,7 +429,7 @@
       "id": "earned-chicken-before-feed",
       "image": "earned-chicken-before-feed.png",
       "category": "development-observation",
-      "capturedAt": "2026-09-20T23:14:48.895784+00:00",
+      "capturedAt": "2026-09-20T19:14:48.895784-04:00",
       "executionMode": "Play",
       "state": "Chicken purchased through normal earned progression, shown in its constructed barn.",
       "privacy": "game-world-only",
@@ -440,7 +440,7 @@
       "id": "earned-chicken-fed",
       "image": "earned-chicken-fed.png",
       "category": "development-observation",
-      "capturedAt": "2026-09-20T23:15:33.728160+00:00",
+      "capturedAt": "2026-09-20T19:15:33.72816-04:00",
       "executionMode": "Play",
       "state": "Recorded after one actual click consumed one earned feed. The image alone does not prove saving.",
       "privacy": "game-world-only",
@@ -451,12 +451,22 @@
       "id": "earned-feed-machine",
       "image": "earned-feed-machine.png",
       "category": "development-observation",
-      "capturedAt": "2026-09-20T23:09:55.857209+00:00",
+      "capturedAt": "2026-09-20T19:09:55.857209-04:00",
       "executionMode": "Play",
       "state": "Retained defect: READY text stretches across a large machine part. This is not accepted final instrument design.",
       "privacy": "game-world-only",
       "sha256": "bf7867fba713678641687ddea5ff0d1873c34b3afd613b0cdc5ede0c15937902",
       "onlineAcceptance": false
+    },
+    {
+      "id": "feedmill-instrument-bd2ebf1",
+      "image": "feedmill-instrument-wip.png",
+      "category": "work in progress instrument",
+      "capturedAt": "2026-09-21T01:14:26.943188+00:00",
+      "executionMode": "Play",
+      "state": "fixture instrument with idle readout; work in progress and no economic production claim",
+      "privacy": "game-world-only",
+      "sha256": "2d2f9b60addd5c8da59493d8c138148b2703e642d0bd08aa1810af4c93ca18f8"
     }
   ],
   "excluded": [
@@ -477,7 +487,7 @@
     },
     {
       "category": "receipt JSON",
-      "count": 40,
+      "count": 46,
       "reason": "Internal provenance records are not needed for public viewing"
     },
     {
