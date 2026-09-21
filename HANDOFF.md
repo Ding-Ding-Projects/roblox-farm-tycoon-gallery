@@ -1,5 +1,9 @@
 # Gallery handoff
 
+## Current 59-image update
+
+Eight original views were added with validated capture times and inspected pixels. All59 local hashes match. The newest view is the timestamped harvest reward, followed by the current gable/countdown states according to capture time. Before-fix views are labelled and the inventory records excluded diagnostics/long-copy/duplicate views. Hosted delivery remains pending for this update. Earlier sections retain their original revision boundaries.
+
 ## Current 51-image update
 
 Added current earned chicken and restaurant visitor images from validated UTC capture receipts. All 51 original hashes and image decodes pass locally. The existing date sort puts the restaurant first and chicken second. Deployment `35634819420` of `2d2d8c2` succeeded. Page, 51-entry inventory and all 51 images returned HTTP 200; every image hash matched. See `evidence/gallery-51-live.json`. Earlier statements below apply only to their stated revision. The plain restaurant counter remains unfinished. No private source or profile receipt was copied.

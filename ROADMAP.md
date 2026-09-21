@@ -18,3 +18,6 @@
 
 - [x] Add two reviewed earned-state images and verify all 51 local image hashes and newest-first date order.
 - [x] Verify hosted delivery of the 51-image update: deployment success, HTTP 200 and all original image hashes.
+
+- [x] Add eight reviewed feedback, countdown, architecture and labelled before-fix views; verify59 local hashes.
+- [ ] Verify hosted59-image delivery and current ordering.

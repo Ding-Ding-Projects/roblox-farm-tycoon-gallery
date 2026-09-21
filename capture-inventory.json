@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 51,
+  "publishedCaptureCount": 59,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -523,6 +523,86 @@
       "state": "One chicken bought through normal progression in its constructed barn, before feeding. Later input verified feeding and egg collection; durable saving remains unverified.",
       "privacy": "game-world-only",
       "sha256": "8ac76a48f806c72c77eff17be1df0035ee64a268674385981f4152f8e18f9e52"
+    },
+    {
+      "id": "harvest-reward-visible",
+      "image": "harvest-reward-visible.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T18:29:55.803509+00:00",
+      "executionMode": "Play",
+      "state": "Actual click after the original crop deadline. Displayed seed, wheat and XP gains match the authoritative state; online saving remains unverified.",
+      "privacy": "game-world-only",
+      "sha256": "7d477f8b921106e5f9d387ca3d22cc39de985ed5706b2d20cef5c8ba87fac3f1"
+    },
+    {
+      "id": "crop-countdown-clear",
+      "image": "crop-countdown-clear.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T18:21:50.155886+00:00",
+      "executionMode": "Play",
+      "state": "Both countdown lines now sit above the soil. The outline remains active and the normal hint returns after temporary feedback.",
+      "privacy": "game-world-only",
+      "sha256": "ca16fe60fca9cac551d9fb63aa412fa698a8787bf89e63df82ee42ff5e235a6e"
+    },
+    {
+      "id": "feedworks-brick-gable",
+      "image": "feedworks-brick-gable.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T18:24:02.001720+00:00",
+      "executionMode": "Play",
+      "state": "Native fixture with real brick roof-end infill, masonry piers, framed openings and a supported canopy. Final architecture and environmental realism remain unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "56669dfa667204c8016fcdda002a86c34f7f4975fdaeb15d17170bfb94cd7bb0"
+    },
+    {
+      "id": "crop-countdown-before",
+      "image": "crop-countdown-before.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T18:04:51.079808+00:00",
+      "executionMode": "Play",
+      "state": "Earlier development state: the countdown partly overlaps the field and transient feedback is absent. Repaired in the newer views.",
+      "privacy": "game-world-only",
+      "sha256": "3323545ad102eef752a0a3648b3b35ece8eed842ece439dbd87f97d1e65ecdc7"
+    },
+    {
+      "id": "harvest-feedback-before",
+      "image": "harvest-feedback-before.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T18:05:49.445192+00:00",
+      "executionMode": "Play",
+      "state": "Earlier actual harvest changed inventory correctly but its reward label was absent from the captured view. Retained as before-fix evidence.",
+      "privacy": "game-world-only",
+      "sha256": "4d964e5fb8055175be725ebedcfdd169fe9932f79b1cc0f1eec7656fc7bafe27"
+    },
+    {
+      "id": "feedworks-first-facade",
+      "image": "feedworks-first-facade.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T17:49:24.284413+00:00",
+      "executionMode": "Play",
+      "state": "Controlled native fixture. The oversized plain wall and a return-apron obstruction were rejected and repaired in subsequent candidates.",
+      "privacy": "game-world-only",
+      "sha256": "cfa498902b8aa1eb57ec2df222b19858745ee875545b779c92f30803650098f8"
+    },
+    {
+      "id": "dairy-clerestory",
+      "image": "dairy-clerestory.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T17:49:52.400331+00:00",
+      "executionMode": "Play",
+      "state": "Controlled normalized-layout fixture with raised physical glazing and a supported receiving bay. Final architectural acceptance remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "e6b6d9d26102dcc2f93b1bc3eeb4a0d79f1e7477ffa66f128a2c3b1937d2ca44"
+    },
+    {
+      "id": "feedworks-framed-stage",
+      "image": "feedworks-framed-stage.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-21T17:59:32.792791+00:00",
+      "executionMode": "Play",
+      "state": "Physical window openings and a wider supported canopy after the return repair. The remaining open roof end was corrected in the newer gable view.",
+      "privacy": "game-world-only",
+      "sha256": "ca1235a74fa72586b62902128c52d92205b70975ec92ec1f52cc142a83ddc2ba"
     }
   ],
   "excluded": [
@@ -550,7 +630,22 @@
       "category": "private source and place data",
       "count": 1,
       "reason": "Excluded by publication boundary"
+    },
+    {
+      "category": "current component-render probes",
+      "count": 4,
+      "reason": "Artificial diagnostic text and missing retained capture timestamps; not gameplay evidence."
+    },
+    {
+      "category": "current verbose planting views",
+      "count": 2,
+      "reason": "The current result/session copy still needs long-message and bilingual readability acceptance."
+    },
+    {
+      "category": "duplicate current harvest state",
+      "count": 1,
+      "reason": "The timestamped verifier capture represents this same visible reward state with stronger interaction provenance."
     }
   ],
-  "latestBatchNote": "Two original earned-state images: current chicken and restaurant visitor. Final architecture, online saving and published startup remain unverified."
+  "latestBatchNote": "Eight reviewed original views: visible reward/countdown, physical feedworks gable, dairy bay, and explicitly labelled earlier defects. Online saving, final art and full-device acceptance remain open."
 }
