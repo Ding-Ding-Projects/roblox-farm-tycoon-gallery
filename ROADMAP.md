@@ -18,7 +18,7 @@
 - [x] Add the five reviewed original Studio observations authorized by the continuation, with exact image hashes and receipt-derived timestamps.
 - [x] Verify all 45 local images and all 45 gallery cards against the public inventory.
 - [x] Remove machine-specific paths from the current handoff and add publication-boundary instructions.
-- [ ] Verify this update's live gallery and image delivery after deployment.
+- [x] Verify the live 45-record inventory, updated page, public visibility and all five new original image hashes after deployment of `58fab32`. Forty unchanged images retain their prior delivery verification.
 
 ## Cleanup boundary
 

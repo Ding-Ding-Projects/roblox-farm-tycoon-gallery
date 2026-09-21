@@ -4,7 +4,7 @@
 
 The current gallery has 45 reviewed original captures. Five new Studio observations show the owned starter selector, personal depot controller, the owned chicken before and after feeding, and the oversized machine readout retained as a defect. All 45 local image hashes and 45 parsed gallery cards match the public inventory. Dates and timezone offsets come from validated capture receipts. Original image bytes are unchanged; the new files contain only standard JPEG format and density metadata.
 
-Published startup remains unresolved after the user retested the reviewed repair. These Studio images are not published-server or durable-saving acceptance. Live gallery delivery for this update must also be verified separately after deployment. This gallery is documentation, not a playable game.
+Published startup remains unresolved after the user retested the reviewed repair. These Studio images are not published-server or durable-saving acceptance. Gallery deployment `58fab32` was independently checked through unauthenticated HTTP: the 45-record inventory and updated page are live, and all five new image byte hashes match their reviewed originals. Forty unchanged records retain their earlier live-image verification. This gallery is documentation, not a playable game.
 
 The earlier maintenance record below is historical. Local machine paths have been removed from the current text, while history remains unchanged.
 
