@@ -2,7 +2,7 @@
 
 ## Current 59-image update
 
-Eight original views were added with validated capture times and inspected pixels. All59 local hashes match. The newest view is the timestamped harvest reward, followed by the current gable/countdown states according to capture time. Before-fix views are labelled and the inventory records excluded diagnostics/long-copy/duplicate views. Hosted delivery remains pending for this update. Earlier sections retain their original revision boundaries.
+Eight original views were added with validated capture times and inspected pixels. All59 local hashes match. The newest view is the timestamped harvest reward, followed by the current gable/countdown states according to capture time. Before-fix views are labelled and the inventory records excluded diagnostics/long-copy/duplicate views. Deployment35639772331 at8ea064d succeeded. Page, inventory and all59 images returned HTTP200 and matched the original hashes. Public visibility was verified. See `evidence/gallery-59-live.json`. The existing date-sort code is unchanged; rendered browser interaction was not repeated. Earlier sections retain their original revision boundaries.
 
 ## Current 51-image update
 

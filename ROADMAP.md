@@ -20,4 +20,4 @@
 - [x] Verify hosted delivery of the 51-image update: deployment success, HTTP 200 and all original image hashes.
 
 - [x] Add eight reviewed feedback, countdown, architecture and labelled before-fix views; verify59 local hashes.
-- [ ] Verify hosted59-image delivery and current ordering.
+- [x] Verify hosted59-image delivery and validated newest-first data; all59 HTTP responses/hashes and public visibility match. Rendered browser interaction was not repeated.
