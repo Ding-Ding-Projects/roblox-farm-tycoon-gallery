@@ -15,3 +15,6 @@
 - [ ] Publication of private source files, account-avatar captures, internal receipts, temporary review stages, or unavailable evidence.
 
 - [x] Verify live delivery of the shared arrival-restroom addition after deployment 35606022240, including its original image hash and the 49-entry inventory.
+
+- [x] Add two reviewed earned-state images and verify all 51 local image hashes and newest-first date order.
+- [ ] Verify hosted delivery of the 51-image update.

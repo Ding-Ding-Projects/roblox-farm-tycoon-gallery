@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 49,
+  "publishedCaptureCount": 51,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -503,6 +503,26 @@
       "state": "Native shared restroom after actual toilet flush and timed reset. Other fixture actions and final lighting remain unverified.",
       "privacy": "game-world-only",
       "sha256": "44a5fe8acf0cf609eb6be0c5763c9861b33e5dea7fd7f35f5ded45889169fad0"
+    },
+    {
+      "id": "restaurant-visitor-clear",
+      "image": "restaurant-visitor-clear.png",
+      "category": "earned-progression",
+      "capturedAt": "2026-09-21T17:24:01.728539+00:00",
+      "executionMode": "Play",
+      "state": "Actual 60-second service was completed in Studio. The counter and furniture remain unfinished; online saving is unverified.",
+      "privacy": "game-world-only",
+      "sha256": "9a0435e98cc65bed87cf3354ceeceb9b758444dcb8e99c8e356c745526c289f2"
+    },
+    {
+      "id": "chicken-current",
+      "image": "chicken-current.png",
+      "category": "earned-progression",
+      "capturedAt": "2026-09-21T16:40:32.116807+00:00",
+      "executionMode": "Play",
+      "state": "One chicken bought through normal progression in its constructed barn, before feeding. Later input verified feeding and egg collection; durable saving remains unverified.",
+      "privacy": "game-world-only",
+      "sha256": "8ac76a48f806c72c77eff17be1df0035ee64a268674385981f4152f8e18f9e52"
     }
   ],
   "excluded": [
@@ -532,5 +552,5 @@
       "reason": "Excluded by publication boundary"
     }
   ],
-  "latestBatchNote": "Five inspected original Studio captures. Published startup remains unverified; one image deliberately documents an unresolved readout defect."
+  "latestBatchNote": "Two original earned-state images: current chicken and restaurant visitor. Final architecture, online saving and published startup remain unverified."
 }

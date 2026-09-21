@@ -1,5 +1,9 @@
 # Gallery handoff
 
+## Current 51-image update
+
+Added current earned chicken and restaurant visitor images from validated UTC capture receipts. All 51 original hashes and image decodes pass locally. The existing date sort puts the restaurant first and chicken second. Hosting verification of this update is pending; earlier delivery statements below apply only to their stated revision. The plain restaurant counter remains unfinished. No private source or profile receipt was copied.
+
 ## Verified live state
 
 - Public URL: https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/

@@ -1,13 +1,13 @@
 # Farm Tycoon Capture Gallery
 
-Public visual gallery of 48 genuine reviewed captures, including furnished interior overviews, earlier interfaces, controlled fixtures, earned farming and livestock states, and honestly labelled work in progress.
+Public gallery of 51 genuine reviewed captures. Newest dated evidence appears first using validated receipt timestamps, with unavailable dates last. Every image has a SHA-256 entry in [the public inventory](capture-inventory.json).
 
-The gallery opens with the newest dated capture first. This order is calculated from validated capture receipt timestamps, with records whose date is unavailable placed last. The public inventory remains the source of the displayed order and includes the image hash for every published capture.
+The newest additions show the current earned chicken and the restaurant NPC after a real 60-second service. Separate private input receipts record normal construction, feed production, chicken feeding, egg collection and the first restaurant order. The images themselves show development states, not proof of durable saving or final art. The restaurant counter and furniture remain unfinished.
 
-The gallery is a public presentation of development evidence. It does not claim that the game is complete, that the images are final art, or that the experience is photorealistic. Five Studio observations and two free-building captures were retained from validated receipts. Published startup and durable leave/rejoin remain unverified. The free-building captures show actual controls and source assertions, while durable persistence, the full catalogue, performance coverage and broader language and scale coverage remain unverified.
+![Current earned chicken](images/chicken-current.png)
 
-The gallery is a standalone static documentation site for GitHub Pages, not a playable game or substitute. Reviewed original image bytes and sanitized captions are published; place files, source code, profile receipts, account imagery, editor surfaces and machine paths are excluded. The public inventory lists all 48 records and their image hashes.
+![Restaurant visitor after the first service](images/restaurant-visitor-clear.png)
 
-The current source is `main` at `72b2133df1f9ae1ccaf83f6f2a056adf09082233`. Cache-busted browser verification confirmed the two September 21 free-building cards, newest-first ordering, the New evidence and All captures filters, and the date-unavailable failed ledger at the end. The page, inventory and both new image URLs returned HTTP 200. These checks verify gallery delivery only and do not claim runtime completion of the underlying game.
+This static documentation gallery is not a playable game or substitute. Private source, place files, profile receipts, account avatars, editor surfaces and machine paths are excluded. Captions preserve the limits of each observation. Published startup, live save/rejoin, complete catalogue coverage and device performance remain unverified.
 
-Latest addition: the shared arrival restroom after actual toilet flush and timed reset. Original capture bytes and validated capture time are retained. Other fixture actions, dark lighting and complete Roblox acceptance remain open. Deployment 35606022240 succeeded. Independent live readback returned HTTP 200 for the page, 49-entry inventory and newest image; its SHA-256 matches the original capture. The prior 48 images retain their earlier full verification.
+The previous 49-image deployment was verified. The current 51-image source inventory and original hashes pass local validation; hosted delivery of this update remains pending until the recorded deployment/readback step completes.
