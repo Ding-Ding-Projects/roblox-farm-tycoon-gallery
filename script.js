@@ -1,5 +1,16 @@
 const filters = document.querySelectorAll('.filter');
 const cards = document.querySelectorAll('.card');
+const gallery = document.querySelector('.gallery');
+fetch('capture-inventory.json').then((response) => response.json()).then((inventory) => {
+  const dates = new Map(inventory.publishable.map((item) => [item.image, item.capturedAt]));
+  [...cards].sort((a, b) => {
+    const imageA = a.querySelector('img').getAttribute('src').split('/').pop();
+    const imageB = b.querySelector('img').getAttribute('src').split('/').pop();
+    const timeA = dates.get(imageA) && dates.get(imageA) !== 'unavailable' ? Date.parse(dates.get(imageA)) : -Infinity;
+    const timeB = dates.get(imageB) && dates.get(imageB) !== 'unavailable' ? Date.parse(dates.get(imageB)) : -Infinity;
+    return timeB - timeA;
+  }).forEach((card) => gallery.appendChild(card));
+}).catch(() => {});
 filters.forEach((filter) => filter.addEventListener('click', () => {
   filters.forEach((item) => item.classList.toggle('active', item === filter));
   const selected = filter.dataset.filter;
