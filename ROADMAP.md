@@ -1,26 +1,14 @@
-# Roadmap
+# Gallery roadmap
 
-## Repository stewardship
+## Published
 
-- [x] Fetch the remote before interpreting the checkout.
-- [x] Inventory the primary checkout, linked worktrees, local branches, stashes, submodules, and uncommitted files.
-- [x] Preserve every recoverable local change before cleanup. No recoverable local change was present.
-- [x] Create and verify the external repository archive before any removal decision.
-- [x] Record the exact external GitHub authentication blocker.
-- [x] Add a factual handoff for the next owner.
-- [x] Verify the final `main` ref locally and on the remote.
-- [ ] Read and update GitHub issues, Discussions, Projects, and workflow state when `gh` authentication is available.
+- [x] Publish the reviewed capture gallery on GitHub Pages.
+- [x] Include the full reviewed public inventory and per-image SHA-256 values.
+- [x] Sort dated captures newest first using validated receipt timestamps.
+- [x] Place captures with unavailable dates after dated captures.
+- [x] Verify the live page, image delivery, public visibility, and native browser filters.
 
-## Gallery maintenance
+## Deliberately outside this gallery
 
-- [x] Keep the public gallery limited to the verified capture set already tracked here.
-- [x] Preserve the existing provenance wording and image inventory.
-- [x] Add the five reviewed original Studio observations authorized by the continuation, with exact image hashes and receipt-derived timestamps.
-- [x] Verify all 45 local images and all 45 gallery cards against the public inventory.
-- [x] Remove machine-specific paths from the current handoff and add publication-boundary instructions.
-- [x] Verify the live 45-record inventory, updated page, public visibility and all five new original image hashes after deployment of `58fab32`. Forty unchanged images retain their prior delivery verification.
-
-## Cleanup boundary
-
-- [x] Remove no linked worktree, branch, or stash because none existed and no redundant candidate was proven.
-- [x] Retain all ownership-uncertain or externally unverified state.
+- [ ] Runtime completion of the underlying Roblox experience, which remains unfinished and belongs to the private development project.
+- [ ] Publication of private source files, account-avatar captures, internal receipts, temporary review stages, or unavailable evidence.

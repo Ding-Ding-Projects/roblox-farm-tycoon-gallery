@@ -1,63 +1,19 @@
-# Handoff
+# Gallery handoff
 
-## Current gallery update
+## Verified live state
 
-The current gallery has 45 reviewed original captures. Five new Studio observations show the owned starter selector, personal depot controller, the owned chicken before and after feeding, and the oversized machine readout retained as a defect. All 45 local image hashes and 45 parsed gallery cards match the public inventory. Dates and timezone offsets come from validated capture receipts. Original image bytes are unchanged; the new files contain only standard JPEG format and density metadata.
+- Public URL: https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/
+- Public source: `main` at `e38962e8cc0936a559c5f829a3920bb4c1f3b3ad`
+- Published inventory: 46 captures
+- Image delivery: all published image URLs returned HTTP 200 and matched the inventory SHA-256 values.
+- Visibility: the GitHub repository is public.
 
-Published startup remains unresolved after the user retested the reviewed repair. These Studio images are not published-server or durable-saving acceptance. Gallery deployment `58fab32` was independently checked through unauthenticated HTTP: the 45-record inventory and updated page are live, and all five new image byte hashes match their reviewed originals. Forty unchanged records retain their earlier live-image verification. This gallery is documentation, not a playable game.
+## Browser verification
 
-The earlier maintenance record below is historical. Local machine paths have been removed from the current text, while history remains unchanged.
+Native browser verification opened the live gallery and confirmed that the first visible card is `Feedmill instrument, work in progress`. The dated cards follow newest-first order from validated receipt timestamps. The `New evidence` and `All captures` filters retained that order and restored the remaining cards. The date-unavailable failed ledger remained last.
 
-## Scope
+This is publication evidence for the gallery only. It does not claim that the underlying Roblox experience is complete or that the work-in-progress instrument is final.
 
-The earlier maintenance pass covered only this gallery repository and its discovered checkouts. No other repository was targeted for cleanup.
+## Publication boundary
 
-## Current state
-
-- Default branch: `main`
-- Local HEAD after this handoff: recorded in the closing commit for this task
-- Remote: `origin`
-- Starting commit: `e93c48592d270459a5944f905450e2645d0f7a3c`
-- Starting local status: clean
-- Tracked files: 22
-- Tracked bytes: 4,887,654
-- Non-ignored untracked files: 0
-- Linked worktrees: 0
-- Additional local branches: 0
-- Stashes: 0
-- Submodules: 0
-- Merge conflicts: 0
-
-The repository was fetched successfully before the inventory was interpreted. Local `main`, `origin/main`, and `origin/HEAD` pointed to the same starting commit.
-
-## Archive evidence
-
-An external archive was created before any cleanup decision:
-
-The verified historical archive is stored outside this repository. Its machine-specific location is retained privately.
-
-The archive contains the Git administrative directory plus the tracked repository files. It was tested with 7-Zip using a full CRC test.
-
-- Archive creation exit code: `0`
-- Archive test exit code: `0`
-- Archive size: `5,389,782` bytes
-- 7-Zip listing: 82 files and 47 folders in the archive payload
-- Git administrative entries observed in the listing: 106
-- Excluded ignored files: 0
-- Non-ignored untracked files omitted: 0
-
-## Preservation and integration
-
-There was no recoverable uncommitted work to preserve, so no preservation branch was needed. There were no conflicts to resolve and no non-obvious merge choices. The requested records were added directly to `main`, then `main` was pushed and its remote ref was verified with `git ls-remote`.
-
-## External GitHub state
-
-The required `gh` CLI route was attempted for repository metadata and open issue inventory. `gh auth status` produced no response within the bounded call, so authenticated GitHub issue, Discussion, Project, and workflow state could not be read or updated. This is an external blocker, not a claim that those surfaces are empty.
-
-## Retained and excluded items
-
-Nothing was removed. There were no linked worktrees, non-default branches, or stashes that met the proven redundant-and-merged criteria. No active, user-owned, load-bearing, unmerged, unpushed, or ownership-uncertain item was touched.
-
-## Next owner
-
-The next owner should begin with `git fetch --all --prune`, confirm that local `main` matches `origin/main`, and use this handoff as the baseline for any future gallery-only work. Any GitHub issue or Discussion follow-up remains pending until `gh` authentication is restored.
+The private development source remains private. The gallery publishes reviewed world-only captures and public-safe captions. Account-avatar captures, internal receipt records, private source data, temporary review stages, and unavailable evidence remain excluded as recorded in `capture-inventory.json`.
