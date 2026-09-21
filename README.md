@@ -2,7 +2,7 @@
 
 Public gallery of 69 genuine reviewed captures. Newest dated evidence appears first using validated receipt timestamps, with unavailable dates last. Every image has a SHA-256 entry in [the public inventory](capture-inventory.json).
 
-The newest additions show visible harvest rewards, an unobstructed crop countdown and physical feedworks gable infill. Earlier missing-feedback and plain-facade images are explicitly labelled before-fix observations. The previous batch shows the earned chicken and restaurant NPC after a real 60-second service. Separate private input receipts record normal construction, feed production, chicken feeding, egg collection and the first restaurant order. The images themselves show development states, not proof of durable saving or final art. The restaurant counter and furniture remain unfinished.
+The newest additions show an owned feedmill silo and actual crop planting, growth, harvest and reward states. The silo is a basic design without a separate grain inventory. The first-run grain-head discrepancy remains unresolved. Authoring and diagnostic fixtures are labelled separately from actual input, while earlier missing-feedback and plain-facade images remain explicitly labelled before-fix observations. The previous batch shows the earned chicken and restaurant NPC after a real 60-second service. The images themselves show development states, not proof of durable saving or final art. The restaurant counter and furniture remain unfinished.
 
 ![Current visible harvest reward](images/harvest-reward-visible.png)
 

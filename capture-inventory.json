@@ -755,7 +755,17 @@
       "category": "duplicate current harvest state",
       "count": 1,
       "reason": "The timestamped verifier capture represents this same visible reward state with stronger interaction provenance."
+    },
+    {
+      "category": "reviewed crop inputs withheld",
+      "count": 9,
+      "reason": "plant.png and plant-after-palette-close.png were blocked by the open palette; plant-ready-controls.png and second-plant.png are duplicate planting views; harvest.png duplicates second-harvest; hover-model-probe.png is a client-only diagnostic override; grain-render-comparison.png and grain-parent-comparison.png are isolated diagnostics; second-mature.png is stage 3 despite its historical filename; second-stage4-verified.png is a diagnostic fixture in the background."
+    },
+    {
+      "category": "superseded authoring preview",
+      "count": 1,
+      "reason": "OldA198 authoring preview was superseded by the approved 305 anchors."
     }
   ],
-  "latestBatchNote": "Eight reviewed original views: visible reward/countdown, physical feedworks gable, dairy bay, and explicitly labelled earlier defects. Online saving, final art and full-device acceptance remain open."
+  "latestBatchNote": "Ten reviewed original views: crop authoring, actual planting, growth, harvest, reward, before-fix soil states and the owned feedmill silo. The basic silo design has no separate grain inventory shown, and the first-run grain-head discrepancy remains unresolved. Online saving, final art and full-device acceptance remain open."
 }
