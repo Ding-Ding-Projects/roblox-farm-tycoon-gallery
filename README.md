@@ -9,3 +9,5 @@ The gallery is a public presentation of development evidence. It does not claim 
 The gallery is a standalone static documentation site for GitHub Pages, not a playable game or substitute. Reviewed original image bytes and sanitized captions are published; place files, source code, profile receipts, account imagery, editor surfaces and machine paths are excluded. The public inventory lists all 48 records and their image hashes.
 
 The current source is `main` at `72b2133df1f9ae1ccaf83f6f2a056adf09082233`. Cache-busted browser verification confirmed the two September 21 free-building cards, newest-first ordering, the New evidence and All captures filters, and the date-unavailable failed ledger at the end. The page, inventory and both new image URLs returned HTTP 200. These checks verify gallery delivery only and do not claim runtime completion of the underlying game.
+
+Latest addition: the shared arrival restroom after actual toilet flush and timed reset. Original capture bytes and validated capture time are retained. Other fixture actions, dark lighting and complete Roblox acceptance remain open. Live delivery of this addition is pending deployment verification.

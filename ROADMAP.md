@@ -13,3 +13,5 @@
 
 - [ ] Runtime completion of the underlying Roblox experience, which remains unfinished and belongs to the private development project.
 - [ ] Publication of private source files, account-avatar captures, internal receipts, temporary review stages, or unavailable evidence.
+
+- [ ] Verify live delivery of the shared arrival-restroom addition after deployment.

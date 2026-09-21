@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 48,
+  "publishedCaptureCount": 49,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -493,6 +493,16 @@
       "sourceRef": "352e81d57be890d95260a0a771bc1614e361971a",
       "onlineAcceptance": false,
       "limitations": "Source building assertions and staging checks passed; live persistence, full catalogue and performance remain unverified"
+    },
+    {
+      "id": "arrival-restroom-connected",
+      "image": "arrival-restroom-connected.png",
+      "category": "arrival-lounge",
+      "capturedAt": "2026-09-21T13:24:57.819439+00:00",
+      "executionMode": "Play",
+      "state": "Native shared restroom after actual toilet flush and timed reset. Other fixture actions and final lighting remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "44a5fe8acf0cf609eb6be0c5763c9861b33e5dea7fd7f35f5ded45889169fad0"
     }
   ],
   "excluded": [
