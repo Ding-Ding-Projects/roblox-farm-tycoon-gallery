@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 46,
+  "publishedCaptureCount": 48,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -467,6 +467,32 @@
       "state": "fixture instrument with idle readout; work in progress and no economic production claim",
       "privacy": "game-world-only",
       "sha256": "2d2f9b60addd5c8da59493d8c138148b2703e642d0bd08aa1810af4c93ca18f8"
+    },
+    {
+      "id": "palette-contained-0d60b36",
+      "image": "palette-contained.png",
+      "category": "free-building",
+      "capturedAt": "2026-09-21T02:49:13.841539-04:00",
+      "executionMode": "Play",
+      "state": "Actual soil preview with Rotate, Place and Cancel fully contained inside the placement panel",
+      "privacy": "game-world-only",
+      "sha256": "3dddae5c404388a1b36bc4b1f0b21e2214a144643e79d8eee8573f0ac06bc0b9",
+      "sourceRef": "0d60b36936b1a8e6e095017a79efdb83e61e053c",
+      "onlineAcceptance": false,
+      "limitations": "One English viewport; actual cancellation and terminal close are recorded separately; durable persistence, full catalogue and performance remain unverified"
+    },
+    {
+      "id": "moved-barn-interior-352e81d",
+      "image": "moved-barn-interior.png",
+      "category": "free-building",
+      "capturedAt": "2026-09-21T02:24:26.350295-04:00",
+      "executionMode": "Play",
+      "state": "Actual barn interior after accepted movement, with timber framing, stalls and a clear central aisle",
+      "privacy": "game-world-only",
+      "sha256": "3150399c2b740d321349850c83858e4e8e312ac8458b6296faec1f178fb71a8e",
+      "sourceRef": "352e81d57be890d95260a0a771bc1614e361971a",
+      "onlineAcceptance": false,
+      "limitations": "Source building assertions and staging checks passed; live persistence, full catalogue and performance remain unverified"
     }
   ],
   "excluded": [

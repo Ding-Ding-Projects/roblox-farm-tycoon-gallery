@@ -7,6 +7,7 @@
 - [x] Sort dated captures newest first using validated receipt timestamps.
 - [x] Place captures with unavailable dates after dated captures.
 - [x] Verify the live page, image delivery, public visibility, and native browser filters.
+- [ ] Verify live delivery of the September 21 free-building captures and their newest-first placement.
 
 ## Deliberately outside this gallery
 
