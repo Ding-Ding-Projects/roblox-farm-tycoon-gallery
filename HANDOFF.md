@@ -3,14 +3,14 @@
 ## Verified live state
 
 - Public URL: https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/
-- Public source: `main` at `e38962e8cc0936a559c5f829a3920bb4c1f3b3ad`
+- Public source: `main` at `72b2133df1f9ae1ccaf83f6f2a056adf09082233`
 - Published inventory: 48 captures
 - Image delivery: all published image URLs returned HTTP 200 and matched the inventory SHA-256 values.
 - Visibility: the GitHub repository is public.
 
 ## Browser verification
 
-Native browser verification opened the live gallery and confirmed that the first visible card is `Feedmill instrument, work in progress`. The dated cards follow newest-first order from validated receipt timestamps. The `New evidence` and `All captures` filters retained that order and restored the remaining cards. The date-unavailable failed ledger remained last.
+Cache-busted browser verification opened the live gallery after the `72b2133` Pages deployment and confirmed that the two September 21 free-building cards are present, the dated cards follow newest-first order from validated receipt timestamps, the `New evidence` and `All captures` filters retain that order, and the date-unavailable failed ledger remains last. The page, inventory and both new image URLs returned HTTP 200.
 
 The two newest cards show a contained placement palette and a moved barn interior. This is publication evidence for the gallery only. It does not claim that the underlying Roblox experience is complete, durable, fully catalogued, performance-certified, or final.
 
