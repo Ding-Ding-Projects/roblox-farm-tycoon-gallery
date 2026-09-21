@@ -21,3 +21,7 @@
 
 - [x] Add eight reviewed feedback, countdown, architecture and labelled before-fix views; verify59 local hashes.
 - [x] Verify hosted59-image delivery and validated newest-first data; all59 HTTP responses/hashes and public visibility match. Rendered browser interaction was not repeated.
+
+- [x] Add ten reviewed crop, soil, authoring and silo images from validated receipts, preserving original bytes and safe inventory fields.
+- [x] Label the basic silo design, absent separate grain inventory, unresolved first-run grain-head discrepancy, and diagnostic/authoring versus actual input boundaries.
+- [ ] Verify hosted69-image delivery and validated newest-first data; deployment and every image HTTP response/hash remain pending until publication.

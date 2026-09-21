@@ -1,8 +1,118 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 59,
+  "publishedCaptureCount": 69,
   "publishable": [
+    {
+      "id": "owned-feedmill-silo",
+      "image": "owned-feedmill-silo.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T21:07:09.810169+00:00",
+      "executionMode": "Play",
+      "state": "Silo beside the personally constructed feedmill after 70 coins, 5 wheat and 30 seconds; final realism and separate grain storage remain unfinished",
+      "privacy": "game-world-only",
+      "sha256": "d13cda279365d3c8db910b032c33e1cfbd596cbeac22ab25f0c71db5d476127e",
+      "sourceRef": "d8d061ff74dfc465a4835e635cda41be21bba13d"
+    },
+    {
+      "id": "native-soil-harvest-outline",
+      "image": "native-soil-harvest-outline.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T21:04:39.066617+00:00",
+      "executionMode": "Play",
+      "state": "Actual harvest shows all three reward rows and the installed soil outline",
+      "privacy": "game-world-only",
+      "sha256": "85261df0f1e2542738dc2fa43e1e61e087a1de439afc1ff057cb5ac3392d25c0",
+      "sourceRef": "d8d061ff74dfc465a4835e635cda41be21bba13d"
+    },
+    {
+      "id": "native-wheat-growing-timer",
+      "image": "native-wheat-growing-timer.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T21:03:17.021223+00:00",
+      "executionMode": "Play",
+      "state": "Actual growing wheat with 40 seconds remaining on its original 45-second deadline",
+      "privacy": "game-world-only",
+      "sha256": "5f0348f16dd62315bda0ccd2af61e9987458a2711c1dbb5fbee2fc2f5486bffb",
+      "sourceRef": "d8d061ff74dfc465a4835e635cda41be21bba13d"
+    },
+    {
+      "id": "native-wheat-harvest-ready",
+      "image": "native-wheat-harvest-ready.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T21:02:19.922122+00:00",
+      "executionMode": "Play",
+      "state": "Mature wheat with installed hover outline and readable Harvest prompt",
+      "privacy": "game-world-only",
+      "sha256": "554c72a186d1b5dfd2d3fbde4efccc90d84e12b9b225a74317b2b04d2212dd6d",
+      "sourceRef": "d8d061ff74dfc465a4835e635cda41be21bba13d"
+    },
+    {
+      "id": "native-soil-planting-outline",
+      "image": "native-soil-planting-outline.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T21:01:21.457525+00:00",
+      "executionMode": "Play",
+      "state": "Actual planting with the installed visible-soil outline; one seed consumed",
+      "privacy": "game-world-only",
+      "sha256": "0a451d75ec7be15e1bb30a975c819985ac59d92b40e4f3bc2ebf439762396195",
+      "sourceRef": "d8d061ff74dfc465a4835e635cda41be21bba13d"
+    },
+    {
+      "id": "native-soil-harvest-before-outline",
+      "image": "native-soil-harvest-before-outline.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T20:50:27.350382+00:00",
+      "executionMode": "Play",
+      "state": "Actual seed, wheat and XP harvest feedback before the visible-soil outline correction",
+      "privacy": "game-world-only",
+      "sha256": "f0f65316ec3865dab5f7af1bcaa9fced686a5f5482f8dcbc1050feca7940503c",
+      "sourceRef": "7bf7aca9bc5484854291f9315e1959f2f3b7a04f"
+    },
+    {
+      "id": "native-wheat-grown",
+      "image": "native-wheat-grown.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T20:50:24.734754+00:00",
+      "executionMode": "Play",
+      "state": "Actual wheat after its original 45-second deadline; low-camera label overlap is still unresolved",
+      "privacy": "game-world-only",
+      "sha256": "9dcffd59141cd21fb182d7e14fc0717fec7a44d7bb562894839c7e7b84eea58c",
+      "sourceRef": "7bf7aca9bc5484854291f9315e1959f2f3b7a04f"
+    },
+    {
+      "id": "native-wheat-first-render-observation",
+      "image": "native-wheat-first-render-observation.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T20:44:10.649303+00:00",
+      "executionMode": "Play",
+      "state": "Earlier mature wheat observation with grain heads not visible; cause unresolved, later runs render correctly",
+      "privacy": "game-world-only",
+      "sha256": "e5816827d314233f423e8a524391caa9241eab7e63d71cb6fbb76f45e27a932e",
+      "sourceRef": "7bf7aca9bc5484854291f9315e1959f2f3b7a04f"
+    },
+    {
+      "id": "native-soil-hover-before",
+      "image": "native-soil-hover-before.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T20:42:31.685238+00:00",
+      "executionMode": "Play",
+      "state": "Before the hover correction: the transparent host receives input but its enabled outline is not visible",
+      "privacy": "game-world-only",
+      "sha256": "ccc15b78bb5e2c284c1bb6c25ca7178f302cd3e6c095130e0d320674159abbe1",
+      "sourceRef": "7bf7aca9bc5484854291f9315e1959f2f3b7a04f"
+    },
+    {
+      "id": "crop-native-authoring",
+      "image": "crop-native-authoring.png",
+      "category": "world-realism",
+      "capturedAt": "2026-09-21T20:11:23.359571+00:00",
+      "executionMode": "Edit",
+      "state": "Isolated native wheat, corn and carrot authoring templates; platforms are review fixtures, not gameplay",
+      "privacy": "game-world-only",
+      "sha256": "8eddc23a714f86f47ced8973f09f32542d47fe2bd545f8366e8d4fcb6fb7227e",
+      "sourceRef": "305e9777fc7b29f6166b034b51c661363c9c9a9f"
+    },
     {
       "id": "barn-dry-hay-entrance",
       "image": "barn-dry-hay-entrance.png",

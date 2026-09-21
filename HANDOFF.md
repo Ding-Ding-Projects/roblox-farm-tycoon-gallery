@@ -4,6 +4,10 @@
 
 Eight original views were added with validated capture times and inspected pixels. All59 local hashes match. The newest view is the timestamped harvest reward, followed by the current gable/countdown states according to capture time. Before-fix views are labelled and the inventory records excluded diagnostics/long-copy/duplicate views. Deployment35639772331 at8ea064d succeeded. Page, inventory and all59 images returned HTTP200 and matched the original hashes. Public visibility was verified. See `evidence/gallery-59-live.json`. The existing date-sort code is unchanged; rendered browser interaction was not repeated. Earlier sections retain their original revision boundaries.
 
+## Current 69-image update
+
+Ten original views were added from the approved crop review input. Pixels were inspected directly. The newest validated capture is `owned-feedmill-silo`, followed by the crop harvest and timer states in descending capture time. The public inventory retains the existing 59 identities and adds only safe fields: id, image, category, capturedAt, executionMode, state, privacy, sha256 and sourceRef. The silo is a basic design with no separate grain inventory shown. The first-run grain-head discrepancy remains unresolved. Authoring and diagnostic fixtures are labelled separately from actual input. Local delivery evidence is pending publication in `evidence/gallery-69-live.json`.
+
 ## Current 51-image update
 
 Added current earned chicken and restaurant visitor images from validated UTC capture receipts. All 51 original hashes and image decodes pass locally. The existing date sort puts the restaurant first and chicken second. Deployment `35634819420` of `2d2d8c2` succeeded. Page, 51-entry inventory and all 51 images returned HTTP 200; every image hash matched. See `evidence/gallery-51-live.json`. Earlier statements below apply only to their stated revision. The plain restaurant counter remains unfinished. No private source or profile receipt was copied.

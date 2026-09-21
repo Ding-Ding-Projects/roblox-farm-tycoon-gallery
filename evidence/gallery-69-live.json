@@ -1,0 +1,29 @@
+{
+  "source": "local primary checkout before publication",
+  "deployment": null,
+  "deploymentConclusion": "pending",
+  "count": 69,
+  "localVerification": {
+    "inventoryStatus": "parsed",
+    "imageCount": 69,
+    "decodedImageCount": 69,
+    "hashMatchCount": 69,
+    "hashMismatches": [],
+    "missingImages": [],
+    "newImagesPixelInspected": 10,
+    "newImages": [
+      "owned-feedmill-silo.png",
+      "native-soil-harvest-outline.png",
+      "native-wheat-growing-timer.png",
+      "native-wheat-harvest-ready.png",
+      "native-soil-planting-outline.png",
+      "native-soil-harvest-before-outline.png",
+      "native-wheat-grown.png",
+      "native-wheat-first-render-observation.png",
+      "native-soil-hover-before.png",
+      "crop-native-authoring.png"
+    ]
+  },
+  "scope": "Public-safe original image bytes and inventory fields only; source paths, receipts, profiles, account imagery and machine paths were excluded. The silo is a basic design without a separate grain inventory. The first-run grain-head discrepancy remains unresolved. Authoring and diagnostic fixtures are labelled separately from actual input.",
+  "liveVerification": "pending publication"
+}
