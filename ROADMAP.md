@@ -17,4 +17,4 @@
 - [x] Verify live delivery of the shared arrival-restroom addition after deployment 35606022240, including its original image hash and the 49-entry inventory.
 
 - [x] Add two reviewed earned-state images and verify all 51 local image hashes and newest-first date order.
-- [ ] Verify hosted delivery of the 51-image update.
+- [x] Verify hosted delivery of the 51-image update: deployment success, HTTP 200 and all original image hashes.

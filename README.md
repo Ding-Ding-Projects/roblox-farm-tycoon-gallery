@@ -10,4 +10,4 @@ The newest additions show the current earned chicken and the restaurant NPC afte
 
 This static documentation gallery is not a playable game or substitute. Private source, place files, profile receipts, account avatars, editor surfaces and machine paths are excluded. Captions preserve the limits of each observation. Published startup, live save/rejoin, complete catalogue coverage and device performance remain unverified.
 
-The previous 49-image deployment was verified. The current 51-image source inventory and original hashes pass local validation; hosted delivery of this update remains pending until the recorded deployment/readback step completes.
+Deployment `35634819420` of `2d2d8c2` succeeded. Independent live readback returned HTTP 200 for the page, the 51-entry inventory, and every image. All 51 downloaded image hashes match their original inventory values. [Delivery receipt](evidence/gallery-51-live.json). The existing date-order implementation remains unchanged; this update did not repeat browser interaction acceptance.

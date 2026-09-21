@@ -2,7 +2,7 @@
 
 ## Current 51-image update
 
-Added current earned chicken and restaurant visitor images from validated UTC capture receipts. All 51 original hashes and image decodes pass locally. The existing date sort puts the restaurant first and chicken second. Hosting verification of this update is pending; earlier delivery statements below apply only to their stated revision. The plain restaurant counter remains unfinished. No private source or profile receipt was copied.
+Added current earned chicken and restaurant visitor images from validated UTC capture receipts. All 51 original hashes and image decodes pass locally. The existing date sort puts the restaurant first and chicken second. Deployment `35634819420` of `2d2d8c2` succeeded. Page, 51-entry inventory and all 51 images returned HTTP 200; every image hash matched. See `evidence/gallery-51-live.json`. Earlier statements below apply only to their stated revision. The plain restaurant counter remains unfinished. No private source or profile receipt was copied.
 
 ## Verified live state
 
