@@ -1,8 +1,16 @@
 # Handoff
 
+## Current gallery update
+
+The current gallery has 45 reviewed original captures. Five new Studio observations show the owned starter selector, personal depot controller, the owned chicken before and after feeding, and the oversized machine readout retained as a defect. All 45 local image hashes and 45 parsed gallery cards match the public inventory. Dates and timezone offsets come from validated capture receipts. Original image bytes are unchanged; the new files contain only standard JPEG format and density metadata.
+
+Published startup remains unresolved after the user retested the reviewed repair. These Studio images are not published-server or durable-saving acceptance. Live gallery delivery for this update must also be verified separately after deployment. This gallery is documentation, not a playable game.
+
+The earlier maintenance record below is historical. Local machine paths have been removed from the current text, while history remains unchanged.
+
 ## Scope
 
-This handoff covers only `C:\Users\cntow\Documents\GitHub\roblox-farm-tycoon-gallery`. The primary checkout and every linked checkout discovered from it were treated as one repository. No other repository was inspected for changes or targeted for cleanup.
+The earlier maintenance pass covered only this gallery repository and its discovered checkouts. No other repository was targeted for cleanup.
 
 ## Current state
 
@@ -26,7 +34,7 @@ The repository was fetched successfully before the inventory was interpreted. Lo
 
 An external archive was created before any cleanup decision:
 
-`C:\Users\cntow\OneDrive\OakKayBackups\roblox-farm-tycoon-gallery\zips\roblox-farm-tycoon-gallery-20260918T172409Z.7z`
+The verified historical archive is stored outside this repository. Its machine-specific location is retained privately.
 
 The archive contains the Git administrative directory plus the tracked repository files. It was tested with 7-Zip using a full CRC test.
 

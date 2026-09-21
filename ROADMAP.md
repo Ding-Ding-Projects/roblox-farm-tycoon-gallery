@@ -15,7 +15,10 @@
 
 - [x] Keep the public gallery limited to the verified capture set already tracked here.
 - [x] Preserve the existing provenance wording and image inventory.
-- [ ] Perform future gallery changes only when a new verified capture set is explicitly in scope.
+- [x] Add the five reviewed original Studio observations authorized by the continuation, with exact image hashes and receipt-derived timestamps.
+- [x] Verify all 45 local images and all 45 gallery cards against the public inventory.
+- [x] Remove machine-specific paths from the current handoff and add publication-boundary instructions.
+- [ ] Verify this update's live gallery and image delivery after deployment.
 
 ## Cleanup boundary
 

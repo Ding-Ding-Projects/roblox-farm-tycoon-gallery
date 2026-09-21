@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 40,
+  "publishedCaptureCount": 45,
   "publishable": [
     {
       "id": "barn-dry-hay-entrance",
@@ -402,6 +402,61 @@
       "executionMode": "Play",
       "sha256": "792f3a8d590f6fe14b72e6d29ebf72e6be361b421e4c5d6d91d08f87f663e150",
       "privacy": "game-world-only"
+    },
+    {
+      "id": "personal-starter-selector-clear",
+      "image": "personal-starter-selector-clear.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-20T22:33:23.712667+00:00",
+      "executionMode": "Play",
+      "state": "Physical crop selection in Studio. Final interface realism remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "c9bfedacd4f8fbe797c38cbc137c49c3508c3cd3eeec1bd7ab1e6baa6151ed62",
+      "onlineAcceptance": false
+    },
+    {
+      "id": "personal-depot-controller-clear",
+      "image": "personal-depot-controller-clear.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-20T22:47:55.859907+00:00",
+      "executionMode": "Play",
+      "state": "Reviewed native controller after actual open input in a controlled personal-building fixture.",
+      "privacy": "game-world-only",
+      "sha256": "29ef26af4061e47297b413cb2740a0e90329d9d36144cdc377cfb4ba524e37eb",
+      "onlineAcceptance": false
+    },
+    {
+      "id": "earned-chicken-before-feed",
+      "image": "earned-chicken-before-feed.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-20T23:14:48.895784+00:00",
+      "executionMode": "Play",
+      "state": "Chicken purchased through normal earned progression, shown in its constructed barn.",
+      "privacy": "game-world-only",
+      "sha256": "bc9b2a562bd29b54de0671bc1550a2bed49f3f9f8fd5503c61b1531c28988711",
+      "onlineAcceptance": false
+    },
+    {
+      "id": "earned-chicken-fed",
+      "image": "earned-chicken-fed.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-20T23:15:33.728160+00:00",
+      "executionMode": "Play",
+      "state": "Recorded after one actual click consumed one earned feed. The image alone does not prove saving.",
+      "privacy": "game-world-only",
+      "sha256": "cf8a4311b2b27b17ae7422f43bd42071cdd3553af1e660d0c2b71cee76dfff38",
+      "onlineAcceptance": false
+    },
+    {
+      "id": "earned-feed-machine",
+      "image": "earned-feed-machine.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-20T23:09:55.857209+00:00",
+      "executionMode": "Play",
+      "state": "Retained defect: READY text stretches across a large machine part. This is not accepted final instrument design.",
+      "privacy": "game-world-only",
+      "sha256": "bf7867fba713678641687ddea5ff0d1873c34b3afd613b0cdc5ede0c15937902",
+      "onlineAcceptance": false
     }
   ],
   "excluded": [
@@ -430,5 +485,6 @@
       "count": 1,
       "reason": "Excluded by publication boundary"
     }
-  ]
+  ],
+  "latestBatchNote": "Five inspected original Studio captures. Published startup remains unverified; one image deliberately documents an unresolved readout defect."
 }

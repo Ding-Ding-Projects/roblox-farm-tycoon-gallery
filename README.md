@@ -1,7 +1,7 @@
 # Farm Tycoon Capture Gallery
 
-Public visual gallery of 29 genuine captures: 14 visually inspected furnished interior overviews, 2 historical HUD views, 1 earlier barn interior, and 12 new evidence views.
+Public visual gallery of 45 genuine reviewed captures, including furnished interior overviews, earlier interfaces, controlled fixtures, earned farming and livestock states, and honestly labelled defects.
 
-The gallery is a public presentation of development evidence. It does not claim that the game is complete, that the images are final art, or that the experience is photorealistic. The current captures were recorded on September 18, 2026 with timezone offsets preserved from validated receipts, and exclude desktop, editor, system, and personal surfaces.
+The gallery is a public presentation of development evidence. It does not claim that the game is complete, that the images are final art, or that the experience is photorealistic. Five added Studio observations were captured on September 20, 2026, with exact timestamps and timezone offsets preserved from validated receipts. Published startup and durable leave/rejoin remain unverified. One new image explicitly documents the stretched machine readout awaiting repair.
 
-The gallery is a standalone static site for GitHub Pages. Its source images are copied from the reviewed evidence set in the development repository; no place file or source code is published. The public capture inventory lists the 12 newly added records and the withheld receipt and source-data categories.
+The gallery is a standalone static documentation site for GitHub Pages, not a playable game or substitute. Reviewed original image bytes and sanitized captions are published; place files, source code, profile receipts, account imagery, editor surfaces and machine paths are excluded. The public inventory lists all 45 records and their image hashes.
