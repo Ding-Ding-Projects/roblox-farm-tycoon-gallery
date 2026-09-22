@@ -1,5 +1,10 @@
 # Gallery handoff
 
+## September 22 update
+
+The gallery now contains 74 reviewed original captures. Five additions show the standalone crop silo, its physical inspection panel and separate ledger, the real wheat timer and harvest reward. Validated receipt timestamps place the inspection panel first. The original 69 identities and bytes are preserved. No private source, profile records, account imagery or machine paths were copied. Hosted delivery of this update is pending.
+
+
 ## Current 69-image update
 
 Ten original views were added from the approved crop review input. Pixels were inspected directly. The newest validated capture is `owned-feedmill-silo`, followed by the crop harvest and timer states in descending capture time. The public inventory retains the existing 59 identities and adds only safe fields: id, image, category, capturedAt, executionMode, state, privacy, sha256 and sourceRef. The silo is a basic design with no separate grain inventory shown. The first-run grain-head discrepancy remains unresolved. Authoring and diagnostic fixtures are labelled separately from actual input. Deployment 35656564967 at `f81c81e` succeeded; page, inventory and all 69 image URLs returned HTTP 200 and every raw-byte SHA-256 matched. The later correction proof is recorded in `evidence/gallery-69-live.json`.
@@ -32,7 +37,7 @@ The private development source remains private. The gallery publishes reviewed w
 
 ## September 21 free-building refresh
 
-- `palette-contained.png` preserves the original 1418Ã—1080 capture from source `0d60b36936b1a8e6e095017a79efdb83e61e053c`, captured at `2026-09-21T06:49:13.841539+00:00`. Its SHA-256 is `3dddae5c404388a1b36bc4b1f0b21e2214a144643e79d8eee8573f0ac06bc0b9`. The image shows the actual English soil-preview palette with Rotate, Place and Cancel contained in the panel. Separate input evidence records actual cancellation and terminal close restoration. Durable persistence, full catalogue coverage, performance and other language and scale tuples remain unverified.
-- `moved-barn-interior.png` preserves the original 1418Ã—1080 capture from source `352e81d57be890d95260a0a771bc1614e361971a`, captured at `2026-09-21T06:24:26.350295+00:00`. Its SHA-256 is `3150399c2b740d321349850c83858e4e8e312ac8458b6296faec1f178fb71a8e`. The image shows the moved barn interior. Source-building assertions and staging checks passed; live persistence, full catalogue coverage and performance remain unverified.
+- `palette-contained.png` preserves the original 1418Ãƒâ€”1080 capture from source `0d60b36936b1a8e6e095017a79efdb83e61e053c`, captured at `2026-09-21T06:49:13.841539+00:00`. Its SHA-256 is `3dddae5c404388a1b36bc4b1f0b21e2214a144643e79d8eee8573f0ac06bc0b9`. The image shows the actual English soil-preview palette with Rotate, Place and Cancel contained in the panel. Separate input evidence records actual cancellation and terminal close restoration. Durable persistence, full catalogue coverage, performance and other language and scale tuples remain unverified.
+- `moved-barn-interior.png` preserves the original 1418Ãƒâ€”1080 capture from source `352e81d57be890d95260a0a771bc1614e361971a`, captured at `2026-09-21T06:24:26.350295+00:00`. Its SHA-256 is `3150399c2b740d321349850c83858e4e8e312ac8458b6296faec1f178fb71a8e`. The image shows the moved barn interior. Source-building assertions and staging checks passed; live persistence, full catalogue coverage and performance remain unverified.
 
 Latest addition: the shared arrival restroom after actual toilet flush and timed reset. Original capture bytes and validated capture time are retained. Other fixture actions, dark lighting and complete Roblox acceptance remain open. Deployment 35606022240 succeeded. Independent live readback returned HTTP 200 for the page, 49-entry inventory and newest image; its SHA-256 matches the original capture. The prior 48 images retain their earlier full verification.
