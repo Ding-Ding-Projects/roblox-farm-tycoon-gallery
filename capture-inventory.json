@@ -1,8 +1,52 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 80,
+  "publishedCaptureCount": 84,
   "publishable": [
+    {
+      "id": "hud-bilingual",
+      "image": "hud-bilingual.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T20:26:33.164553+00:00",
+      "executionMode": "Play",
+      "state": "Actual Both preference input followed by closing settings. All English and Chinese HUD labels fit in the enlarged 560 by 88 interface at 1264 by 830. Smaller viewports, display scales and the separately opened settings-panel overlap remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "c127d23858b667893363c67d6a59ee67d4062788616506f6ef4ea44233d9801a",
+      "sourceRef": "95640a5ab9e7352abe9468fc6e939ff155c49ae9"
+    },
+    {
+      "id": "lounge-finish",
+      "image": "lounge-finish.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-22T20:17:16.203975+00:00",
+      "executionMode": "Play",
+      "state": "A constructed lounge with a wood floor and pendant light. Seating and room details remain provisional; this is a September 22 development observation, not a finished interior.",
+      "privacy": "game-world-only",
+      "sha256": "08406f2dda15ca033d193d8a96115c40d0039dc4cbad9e7ac9dcd2e21b6f240f",
+      "sourceRef": "5c32aa464ebcbe3abb2b0f4ccf00baeddcfb8c4a"
+    },
+    {
+      "id": "settings-en",
+      "image": "settings-en.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-22T20:11:05.450850+00:00",
+      "executionMode": "Play",
+      "state": "The English settings panel was opened with keyboard input. This 1264 by 830 Play capture records the September 22 development state; later bilingual layout work remains in progress.",
+      "privacy": "game-world-only",
+      "sha256": "34fed4355a1393673bd3a1c6f09408e2e5c9536a2764db3db41777521f5d1846",
+      "sourceRef": "5c32aa464ebcbe3abb2b0f4ccf00baeddcfb8c4a"
+    },
+    {
+      "id": "hud-fixed",
+      "image": "hud-fixed.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-22T20:10:13.936554+00:00",
+      "executionMode": "Play",
+      "state": "The enlarged HUD buttons have corrected text and borders in this 1264 by 830 Play capture. This is a dated development observation from the September 22 build; later UI work remains in progress.",
+      "privacy": "game-world-only",
+      "sha256": "7abc7476d87932a244a9419c3811a1004651f178966ba46447e8e06e2b4b2a5c",
+      "sourceRef": "5c32aa464ebcbe3abb2b0f4ccf00baeddcfb8c4a"
+    },
     {
       "id": "isolated-silo-inspection",
       "image": "isolated-silo-inspection.png",
@@ -894,7 +938,11 @@
     {
       "category": "isolated plot diagnostics",
       "reason": "Temporary label probes, avatar-obstructed instrument views, and a foreground-obstructed view are excluded. No unpublished profile records or source files are included."
+    },
+    {
+      "category": "uncurated September 22 runtime captures",
+      "reason": "Other captures from the same review set are withheld: avatar-obstructed controls, temporary component probes, superseded or intermediate room views, and the later UI candidate whose enlarged HUD and settings panel still overlap. Only the three individually reviewed original captures above are included."
     }
   ],
-  "latestBatchNote": "Three original Play captures show constructed destination status, separated silo grounds and an operated inspection control. These are development verification, not final-realism acceptance."
+  "latestBatchNote": "Four original Play captures preserve the bilingual enlarged HUD, an earlier enlarged HUD, the English settings panel and a provisional lounge. The newest HUD shows both language lines fitting at 1264 by 830 after actual input and closing settings; smaller viewports, display scales and the separate settings overlap remain unverified."
 }

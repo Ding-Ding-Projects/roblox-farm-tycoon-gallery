@@ -34,3 +34,9 @@
 
 - [x] Retain three reviewed isolated-plot runtime views and preserve the prior77 originals.
 - [x] Verify80-image public delivery against f0c83f1 through deployment35773336953; all80 HTTP200 hashes match and prior77 bytes remain unchanged.
+
+## September 22 gallery update
+
+- [x] Add four pixel-reviewed original Play captures with validated UTC capture-window timestamps; preserve all 80 prior inventory identities and hashes.
+- [x] Label the HUD and English settings as dated development observations and the lounge furnishings as provisional; record exclusions for uncurated probes and overlapping later UI.
+- [ ] Verify deployment, public visibility, inventory and all 84 original image hashes; local 84-image hash, prior-entry preservation, timestamp-order and card-order checks passed; hosted delivery remains pending.
