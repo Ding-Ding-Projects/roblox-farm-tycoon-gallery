@@ -30,4 +30,4 @@
 - [x] Verify hosted delivery of all 74 images and newest-first inventory after deployment 35688537129; all original hashes match.
 
 - [x] Retain three reviewed outdoor and Claim images, preserving all74 previous identities and bytes.
-- [ ] Verify77-image public delivery.
+- [x] Verify77-image public delivery after deployment35703493568: exact page/inventory and every image hash match.

@@ -1,6 +1,6 @@
 # Gallery handoff
 
-Current update: 77 reviewed original images, newest first. The three additions show the supported perimeter, constructed silo courtyard and readable physical Claim panel. All 77 local hashes match. Public delivery verification is pending. Final landscape and architecture realism remain unfinished.
+Current update: 77 reviewed original images, newest first. The three additions show the supported perimeter, constructed silo courtyard and readable physical Claim panel. Deployment35703493568 succeeded. Unauthenticated readback matched the exact page, inventory and all77 original image hashes; all74 previous images are preserved. See evidence/gallery-77-live.json. Browser interaction was not repeated. Final landscape and architecture realism remain unfinished.
 
 ## September 22 update
 
