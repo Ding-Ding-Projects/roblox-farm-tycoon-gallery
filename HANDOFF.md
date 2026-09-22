@@ -1,6 +1,6 @@
 # Gallery handoff
 
-Current update:80 reviewed original images, newest first. The latest three show isolated silo grounds, constructed destination status and a physical inspection readout. All80 local hashes match, and prior77 images retain their bytes. Public delivery is pending. Artwork remains provisional.
+Current update:80 reviewed original images, newest first. The latest three show isolated silo grounds, constructed destination status and a physical inspection readout. All80 local hashes match, and prior77 images retain their bytes. Public deployment35773336953 succeeded; the live page, inventory and all80 image hashes match f0c83f1. Artwork remains provisional.
 
 Current update: 77 reviewed original images, newest first. The three additions show the supported perimeter, constructed silo courtyard and readable physical Claim panel. Deployment35703493568 succeeded. Unauthenticated readback matched the exact page, inventory and all77 original image hashes; all74 previous images are preserved. See evidence/gallery-77-live.json. Browser interaction was not repeated. Final landscape and architecture realism remain unfinished.
 

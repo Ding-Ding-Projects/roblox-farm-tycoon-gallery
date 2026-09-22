@@ -33,4 +33,4 @@
 - [x] Verify77-image public delivery after deployment35703493568: exact page/inventory and every image hash match.
 
 - [x] Retain three reviewed isolated-plot runtime views and preserve the prior77 originals.
-- [ ] Verify80-image public delivery.
+- [x] Verify80-image public delivery against f0c83f1 through deployment35773336953; all80 HTTP200 hashes match and prior77 bytes remain unchanged.
