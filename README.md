@@ -2,10 +2,12 @@
 
 ## September 22 update
 
-The gallery now contains 74 reviewed original captures. Five additions show the standalone crop silo, its physical inspection panel and separate ledger, the real wheat timer and harvest reward. Validated receipt timestamps place the inspection panel first. The original 69 identities and bytes are preserved. No private source, profile records, account imagery or machine paths were copied. Hosted delivery of this update is pending.
+The gallery now contains 74 reviewed original captures. Five additions show the standalone crop silo, its physical inspection panel and separate ledger, the real wheat timer and harvest reward. Validated receipt timestamps place the inspection panel first. The original 69 identities and bytes are preserved. No private source, profile records, account imagery or machine paths were copied. Deployment 35688537129 succeeded. The public page, 74-entry inventory and all 74 image hashes were verified through unauthenticated HTTP readback. The inspection panel is first. See [delivery evidence](evidence/gallery-74-live.json). Browser interaction was not repeated.
 
 
-Public gallery of 69 genuine reviewed captures. Newest dated evidence appears first using validated receipt timestamps, with unavailable dates last. Every image has a SHA-256 entry in [the public inventory](capture-inventory.json).
+## Earlier batches
+
+The previous gallery contained 69 genuine reviewed captures. Newest dated evidence appears first using validated receipt timestamps, with unavailable dates last. Every image has a SHA-256 entry in [the public inventory](capture-inventory.json).
 
 The newest additions show an owned feedmill silo and actual crop planting, growth, harvest and reward states. The silo is a basic design without a separate grain inventory. The first-run grain-head discrepancy remains unresolved. Authoring and diagnostic fixtures are labelled separately from actual input, while earlier missing-feedback and plain-facade images remain explicitly labelled before-fix observations. The previous batch shows the earned chicken and restaurant NPC after a real 60-second service. The images themselves show development states, not proof of durable saving or final art. The restaurant counter and furniture remain unfinished.
 

@@ -27,4 +27,4 @@
 - [x] Verify hosted69-image delivery and validated newest-first data; deployment 35656937127 succeeded, the page and inventory returned HTTP 200, newest-first order is `owned-feedmill-silo`, and the existing 69-image raw-byte hash proof remains valid because image bytes did not change.
 
 - [x] Add five reviewed standalone-silo and crop views, preserving all 69 prior identities and original hashes.
-- [ ] Verify hosted delivery of all 74 images and newest-first inventory after this update.
+- [x] Verify hosted delivery of all 74 images and newest-first inventory after deployment 35688537129; all original hashes match.
