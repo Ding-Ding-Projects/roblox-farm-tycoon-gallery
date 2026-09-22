@@ -1,8 +1,41 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 74,
+  "publishedCaptureCount": 77,
   "publishable": [
+    {
+      "id": "silo-outdoor-courtyard",
+      "image": "silo-outdoor-courtyard.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T08:06:51.738901+00:00",
+      "executionMode": "Play",
+      "state": "Two upright courtyard plantings beside the constructed silo exterior; the other two belong to its full-size interior footprint. The plain facade and sparse distant landscape remain unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "fcf8ce4156c9b67d6abd04bdbe0bd2c56adbc74bf5f7689da46f46f5738e7599",
+      "sourceRef": "cbd4bc4d04c6558297ca23e2eadc9fdec89ab52e"
+    },
+    {
+      "id": "supported-rural-perimeter",
+      "image": "supported-rural-perimeter.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T08:06:29.138869+00:00",
+      "executionMode": "Play",
+      "state": "Grass buffers, upright reviewed Oaks, a walking path and physical fence. Separate actual-input records verify ordinary walking collision and edge recovery. Published-server and device acceptance remain pending.",
+      "privacy": "game-world-only",
+      "sha256": "b5b29c47c909e737f0ea940d4858ad57d934d5779c8041a753d868f6984e4e3c",
+      "sourceRef": "cbd4bc4d04c6558297ca23e2eadc9fdec89ab52e"
+    },
+    {
+      "id": "physical-claim-readable",
+      "image": "physical-claim-readable.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T07:50:40.610119+00:00",
+      "executionMode": "Play",
+      "state": "The physical Claim panel opens at 900 by 560 with larger readable controls. Actual explicit Claim succeeds; this earlier source remains accurately identified.",
+      "privacy": "game-world-only",
+      "sha256": "7a0917c81655ccae78d4be05871f1c2ba8e6798ca0d86f859d06f173bc1d8390",
+      "sourceRef": "d87a4d1fefadc580cb6286d36d3f9356b8fc56eb"
+    },
     {
       "id": "standalone-inspection-panel",
       "image": "standalone-inspection-panel.png",
@@ -820,7 +853,11 @@
       "category": "superseded authoring preview",
       "count": 1,
       "reason": "OldA198 authoring preview was superseded by the approved 305 anchors."
+    },
+    {
+      "category": "outdoor development diagnostics",
+      "reason": "Sideways trees, earlier passable fences, wall-obstructed Claim views and temporary collision-probe state are not accepted final evidence."
     }
   ],
-  "latestBatchNote": "Ten reviewed original views: crop authoring, actual planting, growth, harvest, reward, before-fix soil states and the owned feedmill silo. The basic silo design has no separate grain inventory shown, and the first-run grain-head discrepancy remains unresolved. Online saving, final art and full-device acceptance remain open."
+  "latestBatchNote": "Three original reviewed captures show supported outdoors, silo courtyard and readable physical Claim. Landscape and architectural realism remain unfinished."
 }

@@ -1,5 +1,7 @@
 # Farm Tycoon Capture Gallery
 
+Current update: 77 reviewed original images, newest first. The three additions show the supported perimeter, constructed silo courtyard and readable physical Claim panel. All 77 local hashes match. Public delivery verification is pending. Final landscape and architecture realism remain unfinished.
+
 ## September 22 update
 
 The gallery now contains 74 reviewed original captures. Five additions show the standalone crop silo, its physical inspection panel and separate ledger, the real wheat timer and harvest reward. Validated receipt timestamps place the inspection panel first. The original 69 identities and bytes are preserved. No private source, profile records, account imagery or machine paths were copied. Deployment 35688537129 succeeded. The public page, 74-entry inventory and all 74 image hashes were verified through unauthenticated HTTP readback. The inspection panel is first. See [delivery evidence](evidence/gallery-74-live.json). Browser interaction was not repeated.
