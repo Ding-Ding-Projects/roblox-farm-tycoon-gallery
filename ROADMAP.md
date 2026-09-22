@@ -31,3 +31,6 @@
 
 - [x] Retain three reviewed outdoor and Claim images, preserving all74 previous identities and bytes.
 - [x] Verify77-image public delivery after deployment35703493568: exact page/inventory and every image hash match.
+
+- [x] Retain three reviewed isolated-plot runtime views and preserve the prior77 originals.
+- [ ] Verify80-image public delivery.

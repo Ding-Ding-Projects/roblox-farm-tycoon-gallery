@@ -1,8 +1,41 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 77,
+  "publishedCaptureCount": 80,
   "publishable": [
+    {
+      "id": "isolated-silo-inspection",
+      "image": "isolated-silo-inspection.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T19:19:27.574413+00:00",
+      "executionMode": "Play",
+      "state": "The physical inspection status after actual equipment input in a relocated silo. Aeration, inspection opening and closing work. Equipment detailing and landscape density remain provisional.",
+      "privacy": "game-world-only",
+      "sha256": "ea3e4196d478da41a30fc8b13dc724c3a81969cd977964887483e8ddf7b74eca",
+      "sourceRef": "c5d624aa4eccec79f87955f9e2494aab2c5d9b87"
+    },
+    {
+      "id": "isolated-silo-grounds",
+      "image": "isolated-silo-grounds.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T19:11:16.711850+00:00",
+      "executionMode": "Play",
+      "state": "The relocated, rotated silo has supported ground and a visible enclosing wall. Walking and jumping collision and wrong-region recovery were tested separately. Final architecture and landscaping remain unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "afaac8d1989fb5638c7a0582ecda1aa751669ce842222bf69e7a85f8f57c9e47",
+      "sourceRef": "c5d624aa4eccec79f87955f9e2494aab2c5d9b87"
+    },
+    {
+      "id": "isolated-hall-ready",
+      "image": "isolated-hall-ready.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-22T19:01:17.318052+00:00",
+      "executionMode": "Play",
+      "state": "The constructed silo destination becomes Ready after its five-second construction. Other destinations remain Not built. Actual door travel passes the complete farm, hall, exterior and interior route. Hall artwork remains provisional.",
+      "privacy": "game-world-only",
+      "sha256": "d17634066cc69fe8c8d0a057112b4c2b9982ceae90fedb69e6b998c6f3522aa7",
+      "sourceRef": "c5d624aa4eccec79f87955f9e2494aab2c5d9b87"
+    },
     {
       "id": "silo-outdoor-courtyard",
       "image": "silo-outdoor-courtyard.png",
@@ -857,7 +890,11 @@
     {
       "category": "outdoor development diagnostics",
       "reason": "Sideways trees, earlier passable fences, wall-obstructed Claim views and temporary collision-probe state are not accepted final evidence."
+    },
+    {
+      "category": "isolated plot diagnostics",
+      "reason": "Temporary label probes, avatar-obstructed instrument views, and a foreground-obstructed view are excluded. No unpublished profile records or source files are included."
     }
   ],
-  "latestBatchNote": "Three original reviewed captures show supported outdoors, silo courtyard and readable physical Claim. Landscape and architectural realism remain unfinished."
+  "latestBatchNote": "Three original Play captures show constructed destination status, separated silo grounds and an operated inspection control. These are development verification, not final-realism acceptance."
 }
