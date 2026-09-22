@@ -39,4 +39,4 @@
 
 - [x] Add four pixel-reviewed original Play captures with validated UTC capture-window timestamps; preserve all 80 prior inventory identities and hashes.
 - [x] Label the HUD and English settings as dated development observations and the lounge furnishings as provisional; record exclusions for uncurated probes and overlapping later UI.
-- [ ] Verify deployment, public visibility, inventory and all 84 original image hashes; local 84-image hash, prior-entry preservation, timestamp-order and card-order checks passed; hosted delivery remains pending.
+- [x] Verify deployment 35780664086 for `46ba40138267897be6f29b62a513702edb41a98b`: public visibility, exact page and inventory Git blobs, all 84 HTTP 200 image responses and every SHA-256; all 80 prior identities and hashes are preserved. See [delivery evidence](evidence/gallery-84-live.json).
