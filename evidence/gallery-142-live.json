@@ -1,0 +1,22 @@
+{
+  "verifiedAtUtc": "2026-09-23T14:49:23Z",
+  "galleryRef": "ca043699dcd0066649dfb7eac7dbae0d8d0f0c84",
+  "deploymentRun": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35876382350",
+  "deploymentConclusion": "success",
+  "publicBaseUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
+  "unauthenticatedReadback": {
+    "indexHtml": "HTTP 200, bytes equal the dewed Git blob",
+    "captureInventoryJson": "HTTP 200, bytes equal the dewed Git blob",
+    "images": "142 HTTP 200 responses, each SHA-256 equal to its inventory record",
+    "newest": "bakery-open-hearth-f76081a.png"
+  },
+  "localValidation": {
+    "publishedRecords": 142,
+    "uniqueOriginalImageHashes": 142,
+    "priorRecordsPreserved": 141,
+    "priorExclusionsPreserved": 18,
+    "currentExclusionRecords": 19,
+    "staticCardAndInventoryOrder": "newest first by timezone-normalized capture instant"
+  },
+  "limits": "Browser rendering and filter interaction were not repeated. This proves gallery delivery, not Roblox publication, constructed-building interaction or finished artwork. The three retained avatar-visible Play captures remain in the private source repository and are not in this public gallery."
+}

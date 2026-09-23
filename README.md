@@ -1,6 +1,6 @@
-## September 23 bakery open-hearth candidate
+## September 23 bakery open-hearth delivery
 
-One reviewed original Studio Edit capture from source `f76081a291321a5c8279d382a785c0521167b824` adds the bakery's open hearth, arched mouth, flue and supported canopy. Its validated capture window begins `2026-09-23T14:17:06.747352+00:00`, making it the newest dated gallery entry. The broad wall and floor are unfinished. This isolated authoring view does not prove an owned constructed building or production. The previous 141 image files and inventory entries are preserved. Public delivery of the 142-image candidate is pending and is not claimed by this source update.
+One reviewed original Studio Edit capture from source `f76081a291321a5c8279d382a785c0521167b824` adds the bakery's open hearth, arched mouth, flue and supported canopy. Its validated capture window begins `2026-09-23T14:17:06.747352+00:00`, making it the newest dated gallery entry. The broad wall and floor are unfinished. This isolated authoring view does not prove an owned constructed building or production. The previous 141 image files and inventory entries and 18 exclusion records are preserved. At content `ca043699dcd0066649dfb7eac7dbae0d8d0f0c84`, the [deployment](https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35876382350) succeeded and unauthenticated readback matched the exact page, inventory and all 142 image hashes. The latest inventory adds one building-stage exclusion record for private diagnostics. [Delivery evidence](evidence/gallery-142-live.json) does not claim browser interaction or final game behavior.
 
 ## September 23 close-camera tutorial observations
 
