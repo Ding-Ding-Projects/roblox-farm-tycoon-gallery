@@ -1,4 +1,10 @@
-## Current 95-image update
+## Current 99-image update
+
+- [x] Add four pixel-reviewed original Edit-mode authoring views with validated UTC receipts, preserving all 95 earlier records and image bytes.
+- [x] Label unfinished crop and blower artwork, isolated review pads, and the limits of static authoring evidence; exclude the earlier silo diagnostic and avatar-containing tutorial view.
+- [ ] Verify the 99-image deployment and unauthenticated public delivery of the exact page, inventory and all 99 image hashes. The 95-image hosted state remains verified.
+
+## Previous 95-image update
 
 - [x] Preserve four reviewed original feedmill views with validated UTC receipts and all 91 previous records.
 - [x] Verify deployment 35820698664, exact page/inventory and all 95 public image hashes at bde0353.

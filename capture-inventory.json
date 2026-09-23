@@ -1,8 +1,52 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 95,
+  "publishedCaptureCount": 99,
   "publishable": [
+    {
+      "id": "carrot-native-detail",
+      "image": "carrot-native-detail.png",
+      "category": "authoring-observation",
+      "capturedAt": "2026-09-23T05:25:41.567660+00:00",
+      "executionMode": "Edit",
+      "state": "Edit-mode authoring review of native mature carrot and rounded soil geometry on isolated review pads. Crop artwork and surroundings remain unfinished. This static view does not verify growth, harvest, safe playable grounds or final realism.",
+      "privacy": "game-world-only",
+      "sha256": "f1488a339a9e45949c5c452f643b3203c195bb1e008598e8fc7b0fc87b875ae7",
+      "sourceRef": "114b6f8f6c362fc025f3beff727f53356ac9d9a1"
+    },
+    {
+      "id": "corn-native-detail",
+      "image": "corn-native-detail.png",
+      "category": "authoring-observation",
+      "capturedAt": "2026-09-23T05:25:40.736767+00:00",
+      "executionMode": "Edit",
+      "state": "Edit-mode authoring review of native mature corn and rounded soil geometry on isolated review pads. Crop artwork and surroundings remain unfinished. This static view does not verify growth, harvest, safe playable grounds or final realism.",
+      "privacy": "game-world-only",
+      "sha256": "85a081172ed30d49bbeaa9ca0cf6712bdb450cefb171b899fbafa41ec5061b81",
+      "sourceRef": "114b6f8f6c362fc025f3beff727f53356ac9d9a1"
+    },
+    {
+      "id": "wheat-native-detail",
+      "image": "wheat-native-detail.png",
+      "category": "authoring-observation",
+      "capturedAt": "2026-09-23T05:25:39.902688+00:00",
+      "executionMode": "Edit",
+      "state": "Edit-mode authoring review of native mature wheat and rounded soil geometry on isolated review pads. Crop artwork and surroundings remain unfinished. This static view does not verify growth, harvest, safe playable grounds or final realism.",
+      "privacy": "game-world-only",
+      "sha256": "bcaf3c03e90fb7bb096a457e7f655690a55c048ed92b817df7d6c82c49edcd16",
+      "sourceRef": "114b6f8f6c362fc025f3beff727f53356ac9d9a1"
+    },
+    {
+      "id": "silo-blower-detail",
+      "image": "silo-blower-detail.png",
+      "category": "authoring-observation",
+      "capturedAt": "2026-09-23T05:25:01.718880+00:00",
+      "executionMode": "Edit",
+      "state": "Edit-mode authoring review of the standalone silo blower housing, intake grille and service connection on an isolated review pad. Blower artwork and surroundings remain unfinished. This static view does not verify working production, safe playable grounds or final realism.",
+      "privacy": "game-world-only",
+      "sha256": "e08f8ccc60728bf794c7b8baa83c0fc289b155f62ee9f9fb4656ed26192abdcb",
+      "sourceRef": "114b6f8f6c362fc025f3beff727f53356ac9d9a1"
+    },
     {
       "executionMode": "Play",
       "capturedAt": "unavailable",
@@ -1003,6 +1047,16 @@
   ],
   "excluded": [
     {
+      "category": "earlier unreceipted silo diagnostic",
+      "count": 1,
+      "reason": "An earlier ad hoc mechanical image lacks the accepted validated capture receipt and remains withheld."
+    },
+    {
+      "category": "private tutorial diagnostic",
+      "count": 1,
+      "reason": "A tutorial diagnostic contains an account avatar and private context and remains withheld."
+    },
+    {
       "category": "temporary native review images",
       "count": 15,
       "reason": "Raw temporary native-asset review stages, including prior factory/front inspections and superseded or failed intro attempts, without accepted game-integration provenance"
@@ -1069,5 +1123,5 @@
       "reason": "The machinery view contains account-avatar geometry. It remains private and is not published. The reviewed worker view depicts only the project NPC."
     }
   ],
-  "latestBatchNote": "Four original September 23 UTC feedmill interior observations. Restroom, lounge, entrance and worker remain labelled unfinished. No production or fixture-operation success is inferred from these camera-only views."
+  "latestBatchNote": "Four original September 23 UTC Edit-mode authoring observations at source 114b6f8: carrot, corn, wheat and silo blower details. Isolated review pads and artwork remain unfinished. These static images do not prove working production, growth, harvest, safe playable grounds or final realism."
 }

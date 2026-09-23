@@ -1,3 +1,7 @@
+## Native crop and silo authoring observations
+
+Four reviewed original Edit-mode images from source `114b6f8` bring the local inventory to 99. Validated receipt times place carrot, corn, wheat and silo blower details newest first. All 95 previous records and image bytes are preserved. These views show unfinished artwork on isolated review pads; they do not establish working production, crop growth or harvest, safe playable grounds, or final realism. The earlier unreceipted silo diagnostic and the tutorial view containing an account avatar remain excluded. All 99 local hashes and image decodes pass. The 99-image candidate has not been deployed or verified on the public site; the prior 95-image deployment remains the verified hosted state.
+
 ## Feedmill interior observations
 
 Four original views at source `4c6c694` add the restroom, lounge, amenity entrance and worker, bringing the reviewed inventory to 95. All previous 91 records and image bytes are unchanged. Captions explicitly record unfinished furnishing, sign overlap and the worker-head click failure. The account-avatar machinery diagnostic is excluded. Deployment [35820698664](https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35820698664) succeeded at `bde0353fb4e97c4a311df354fb57c2c8b3357045`. Independent unauthenticated readback matched the exact page, inventory and all 95 original image hashes. See [delivery evidence](evidence/gallery-95-live.json). Browser interaction was not repeated.
