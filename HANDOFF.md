@@ -1,6 +1,6 @@
 ## September 23 arrival furnishing observations
 
-Two inspected original Play camera captures from source `ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb` extend the local gallery from 110 to 112 records. The previous 110 record values and image bytes are preserved. The reception and waiting-seat images show provisional furniture, not accepted realism, actual seating or a walked route. Local receipt times, hashes, image decodes, static card order and privacy checks passed. Public deployment and readback of this update remain unverified.
+Two inspected original Play camera captures from source `ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb` extend the local gallery from 110 to 112 records. The previous 110 record values and image bytes are preserved. The reception and waiting-seat images show provisional furniture, not accepted realism, actual seating or a walked route. Local receipt times, hashes, image decodes, static card order and privacy checks passed. Deployment [35825878516](https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35825878516) succeeded at `52a82e7e47ca31f6e0edd07cce0b3c053b76ea8b`. Independent unauthenticated readback matched the exact public page, inventory and all 112 original image hashes, including byte-for-byte preservation of the previous 110 images. See [delivery evidence](evidence/gallery-112-live.json). Browser interaction and game behavior were not repeated.
 
 ## September 23 tutorial and restroom observations
 

@@ -3,7 +3,7 @@
 - [x] Add two pixel-reviewed original Play camera observations with validated UTC receipts, preserving all 110 earlier records and image bytes.
 - [x] Label provisional reception and waiting-seat furniture without claiming actual sitting, a walked route or accepted realism.
 - [x] Check all 112 local image hashes and decodes, record order, static card order and public-text privacy.
-- [ ] Verify public deployment, visibility, page and inventory delivery, and all 112 original image hashes after integration.
+- [x] Verify public deployment 35825878516 at `52a82e7`, visibility, exact page and inventory blobs, and all 112 original image hashes. See [delivery evidence](evidence/gallery-112-live.json). Browser interaction was not repeated.
 
 ## Current 110-image update
 
