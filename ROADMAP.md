@@ -1,3 +1,9 @@
+## Current 149-image candidate
+
+- [x] Add one unchanged, avatar-free earned-feedmill Play original with validated UTC capture time, source ref, hash and explicit unfinished-artwork caption.
+- [x] Verify all 149 local image hashes, decodes, static cards, newest-first ordering and privacy while preserving the previous 148 records and image bytes.
+- [ ] Verify public delivery of the page, inventory and all 149 image URLs and hashes after the gallery reaches `main`.
+
 ## Current 148-image delivery
 
 - [x] Preserve the previous 146 records and image bytes, and add two reviewed original avatar-free earned-feedmill Play views.

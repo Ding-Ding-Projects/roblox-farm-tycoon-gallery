@@ -1,8 +1,19 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 148,
+  "publishedCaptureCount": 149,
   "publishable": [
+    {
+      "id": "feedmill-exterior-avatar-free-f081d39",
+      "image": "feedmill-exterior-avatar-free-f081d39.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T20:18:44.549452+00:00",
+      "executionMode": "Play",
+      "state": "Original camera-only Studio Play view of an earned, constructed feedmill exterior after the interior return was tested separately. The loading apron is grounded, but the broad facade and entry remain sparse and unfinished. This image alone does not prove door input or final visual quality.",
+      "privacy": "game-world-only",
+      "sha256": "9065575aa2e48e3ac8c08ae91bc522036301a50a26d7a78704e6c96818def8fd",
+      "sourceRef": "f081d39a394b4215afdc0624e5d0d5d5926bc4d7"
+    },
     {
       "id": "feedmill-lounge-avatar-free-a6c298e",
       "image": "feedmill-lounge-avatar-free-a6c298e.jpg",
