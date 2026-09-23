@@ -1,3 +1,9 @@
+## Current 142-image candidate
+
+- [x] Add one privacy-reviewed original bakery authoring view with its validated capture time, source revision and hash, preserving the earlier 141 image files and records.
+- [x] Keep the new static card and inventory newest-first and label the authoring view as unfinished.
+- [ ] Verify public deployment, unauthenticated page and inventory delivery, all 142 image hashes and browser ordering.
+
 ## Current 141-image update
 
 - [x] Add six pixel-reviewed original close-camera tutorial observations with validated UTC receipts, preserving all 135 earlier records and image bytes.

@@ -1,8 +1,19 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 141,
+  "publishedCaptureCount": 142,
   "publishable": [
+    {
+      "id": "bakery-open-hearth-f76081a",
+      "image": "bakery-open-hearth-f76081a.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T14:17:06.747352+00:00",
+      "executionMode": "Edit",
+      "state": "Original isolated Studio authoring view of the bakery oven's open hearth, arched mouth, side walls, flue and supported canopy. The broad exterior wall and surrounding floor remain provisional. This image does not establish working production, a constructed personal plot or final visual quality.",
+      "privacy": "game-world-only",
+      "sha256": "d72ef1d95f699075e3d75737d4e6b18ab58dfaed0261ed01ad0444102eca4803",
+      "sourceRef": "f76081a291321a5c8279d382a785c0521167b824"
+    },
     {
       "id": "tutorial-close-dismissed-cdce7ac",
       "image": "tutorial-close-dismissed-cdce7ac.png",
