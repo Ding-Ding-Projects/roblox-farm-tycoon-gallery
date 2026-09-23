@@ -5,8 +5,8 @@
   "deploymentConclusion": "success",
   "publicBaseUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
   "unauthenticatedReadback": {
-    "indexHtml": "HTTP 200, bytes equal the dewed Git blob",
-    "captureInventoryJson": "HTTP 200, bytes equal the dewed Git blob",
+    "indexHtml": "HTTP 200, bytes equal the committed source file",
+    "captureInventoryJson": "HTTP 200, bytes equal the committed source file",
     "images": "142 HTTP 200 responses, each SHA-256 equal to its inventory record",
     "newest": "bakery-open-hearth-f76081a.png"
   },
