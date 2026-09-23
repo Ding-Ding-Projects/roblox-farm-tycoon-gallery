@@ -1,3 +1,10 @@
+## Current 122-image update
+
+- [x] Add ten pixel-reviewed original Play observations from two source revisions with validated UTC receipts, preserving all 112 earlier records and image bytes.
+- [x] Label the older two-pixel Dismiss width defect, later tutorial input and fit at 1264 by 830, and separate unresolved bilingual Farm-board truncation.
+- [x] Check all 122 local image hashes and decodes, record order, static card order and public-text privacy.
+- [ ] Verify public deployment, visibility, page and inventory delivery, and all 122 original image hashes after integration.
+
 ## Current 112-image update
 
 - [x] Add two pixel-reviewed original Play camera observations with validated UTC receipts, preserving all 110 earlier records and image bytes.

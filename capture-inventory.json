@@ -1,8 +1,118 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 112,
+  "publishedCaptureCount": 122,
   "publishable": [
+    {
+      "id": "tutorial-bilingual-help-5714f27",
+      "image": "tutorial-bilingual-help-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:19:26.003825+00:00",
+      "executionMode": "Play",
+      "state": "Actual Help input expanded the bilingual tutorial beside the Farm board. Tutorial labels fit at the observed 1264 by 830 viewport. The separate bilingual board status still truncates; smaller viewports, touch and controller input remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "d0fe29c2e06edbd5784d7870020ce400b1a3dc19eb1399661bd48de78495f29a",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "tutorial-bilingual-5714f27",
+      "image": "tutorial-bilingual-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:19:05.597072+00:00",
+      "executionMode": "Play",
+      "state": "After Settings restart and bilingual selection, the compact tutorial appears beside the Farm board. Its labels fit at the observed 1264 by 830 viewport. The separate bilingual board status still truncates, and durable preference saving is not established.",
+      "privacy": "game-world-only",
+      "sha256": "edc6eb4da9a81a33b35b712c0253a6285b2ac853149c35967c15151980881a7c",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "tutorial-dismissed-5714f27",
+      "image": "tutorial-dismissed-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:18:18.477119+00:00",
+      "executionMode": "Play",
+      "state": "An actual Hide tips input removed the tutorial while the detailed farm terminal stayed closed in this Play session. This view shows the remaining physical board; it does not establish touch, controller or durable behavior.",
+      "privacy": "game-world-only",
+      "sha256": "18d633c7a5571713617ab4121d66d6e8c0289d014aafdb878551482090bcacce",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "tutorial-help-5714f27",
+      "image": "tutorial-help-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:17:51.329125+00:00",
+      "executionMode": "Play",
+      "state": "An actual Help input expanded the English tutorial beside the Farm board. Tutorial labels fit at the observed 1264 by 830 viewport. Smaller viewports, touch and controller input remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "48415146eb2693d2d2163f414843a72914cd785a31793b9de8dc505605bb6033",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "tutorial-compact-5714f27",
+      "image": "tutorial-compact-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:17:08.119911+00:00",
+      "executionMode": "Play",
+      "state": "After an actual Claim, the compact tutorial appears beside the Farm board and its labels fit at the observed 1264 by 830 viewport. This does not establish other viewport or input-mode behavior.",
+      "privacy": "game-world-only",
+      "sha256": "57772a11a194ab6525e9f90b2a2ac552cb5756e97037ce6553e535c3ddc99413",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "tutorial-bilingual-help-1b215c9",
+      "image": "tutorial-bilingual-help-1b215c9.png",
+      "category": "historical-diagnostic",
+      "capturedAt": "2026-09-23T06:10:54.062902+00:00",
+      "executionMode": "Play",
+      "state": "The earlier bilingual Help view places the tutorial beside the Farm board, but the English Dismiss tutorial label measured two pixels wider than its button. This historical view is not text-fit acceptance; the bilingual board heading also remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "9082ba2053c317fa8424e392631b68bd2161049a23a4b092911126cedd39f395",
+      "sourceRef": "1b215c912643fe70f5416c7b583bf3fa017fb2a6"
+    },
+    {
+      "id": "tutorial-bilingual-1b215c9",
+      "image": "tutorial-bilingual-1b215c9.png",
+      "category": "historical-diagnostic",
+      "capturedAt": "2026-09-23T06:09:23.885922+00:00",
+      "executionMode": "Play",
+      "state": "The earlier bilingual compact tutorial sits beside the Farm board after Settings restart. Its English Dismiss tutorial label measured two pixels wider than the button. This is a historical diagnostic, not text-fit acceptance or durable preference proof.",
+      "privacy": "game-world-only",
+      "sha256": "b9cb693e40310cf21234b47f2085304ebab1c27cbb8d6dce14dd53cf2f6d0a5d",
+      "sourceRef": "1b215c912643fe70f5416c7b583bf3fa017fb2a6"
+    },
+    {
+      "id": "tutorial-dismissed-1b215c9",
+      "image": "tutorial-dismissed-1b215c9.png",
+      "category": "historical-diagnostic",
+      "capturedAt": "2026-09-23T06:07:35.901399+00:00",
+      "executionMode": "Play",
+      "state": "An actual Dismiss input removed the earlier tutorial and left the detailed farm terminal closed in this Play session. This historical revision still had a two-pixel Dismiss label-width defect in its visible tutorial states.",
+      "privacy": "game-world-only",
+      "sha256": "3bec8dc993376d61a7c6633de3b9255cc53d8bc18681f5e03dda08e9dde6b086",
+      "sourceRef": "1b215c912643fe70f5416c7b583bf3fa017fb2a6"
+    },
+    {
+      "id": "tutorial-help-1b215c9",
+      "image": "tutorial-help-1b215c9.png",
+      "category": "historical-diagnostic",
+      "capturedAt": "2026-09-23T06:07:13.356617+00:00",
+      "executionMode": "Play",
+      "state": "An actual Help input expanded the earlier English tutorial beside the Farm board. The Dismiss tutorial label measured two pixels wider than its button, so this historical view is not text-fit acceptance.",
+      "privacy": "game-world-only",
+      "sha256": "1787c7f57b41a3245d46001d36a2e6229b0a52e03a298e313d36b65d0aa39293",
+      "sourceRef": "1b215c912643fe70f5416c7b583bf3fa017fb2a6"
+    },
+    {
+      "id": "tutorial-compact-1b215c9",
+      "image": "tutorial-compact-1b215c9.png",
+      "category": "historical-diagnostic",
+      "capturedAt": "2026-09-23T06:06:45.534594+00:00",
+      "executionMode": "Play",
+      "state": "After an actual Claim, the earlier compact tutorial appears beside the Farm board. The Dismiss tutorial label measured two pixels wider than its button, so this historical view is not text-fit acceptance.",
+      "privacy": "game-world-only",
+      "sha256": "622cc20e3296ca15a346da17e8d2bc460ab4499661070d90a2fe1a4c92e41f8a",
+      "sourceRef": "1b215c912643fe70f5416c7b583bf3fa017fb2a6"
+    },
     {
       "id": "arrival-waiting-seats-ccc0bd8",
       "image": "arrival-waiting-seats-ccc0bd8.png",
@@ -1271,5 +1381,5 @@
       "reason": "Claim-ready, tutorial-help and tutorial-dismissed views include the account avatar and remain private."
     }
   ],
-  "latestBatchNote": "Two original September 23 UTC Play camera views at source ccc0bd8 show provisional shared arrival reception and waiting-seat furniture. The captures do not prove actual sitting, a walked route or accepted realism. Earlier tutorial placement and restroom limitations remain as stated."
+  "latestBatchNote": "Ten original September 23 UTC Play observations show an older 1b215c9 tutorial revision with a two-pixel Dismiss label-width defect and a later 5714f27 revision whose tutorial labels fit at the observed 1264-by-830 viewport after actual input. The separate bilingual Farm-board status still truncates. These captures do not verify touch, controller, smaller viewports, durable saving, final realism or published startup."
 }
