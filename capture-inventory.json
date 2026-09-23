@@ -1,8 +1,30 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 133,
+  "publishedCaptureCount": 135,
   "publishable": [
+    {
+      "id": "silo-category-bilingual-2cba66d",
+      "image": "silo-category-bilingual-2cba66d.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:06:22.797277+00:00",
+      "executionMode": "Play",
+      "state": "After actual bilingual Settings selection, the automatic board shows Crop silo 0/100 in English and Cantonese while the separate barn remains 18/100. Native text-fit checks passed for the three-line heading at the observed 1264 by 830 viewport. The physical board hides the tutorial's lower controls from this camera angle; artwork and other viewports remain unfinished or unverified.",
+      "privacy": "game-world-only",
+      "sha256": "564e8db2f6b8345ec71096bf10f8b03da7df4f57e4fcafac83c6ad58580a1a12",
+      "sourceRef": "2cba66df085cf8db3c8460e9a3438df349e8f59c"
+    },
+    {
+      "id": "silo-category-2cba66d",
+      "image": "silo-category-2cba66d.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:05:40.702754+00:00",
+      "executionMode": "Play",
+      "state": "The automatic board now identifies Crop silo 0/100 instead of the earlier incorrect barn 18/100 count. Actual Claim, construction and keyboard walking were recorded separately; this independently framed camera view does not prove that route. The physical board hides the tutorial's lower controls, and artwork remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "45038f7d70a2bf473235966ebab96e0d741c0b4037f13071903c7c0746aced37",
+      "sourceRef": "2cba66df085cf8db3c8460e9a3438df349e8f59c"
+    },
     {
       "id": "silo-automatic-ledger-645f4cc",
       "image": "silo-automatic-ledger-645f4cc.png",
