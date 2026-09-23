@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "verifiedAtUtc": "2026-09-23T19:21:27.089624+00:00",
+  "contentCommit": "1759b39e4dade2565c03e193f10a2026f70e083c",
+  "deploymentRun": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35908563819",
+  "deploymentConclusion": "success",
+  "galleryUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
+  "pageBlobSha256": "78bd3f246f14c2ccb6cb296aadf8e330aec062557cc66327dd092c57681fedaf",
+  "inventoryBlobSha256": "f14e2dff7d253b1a9a9466eca8acf0695b9d03068c75ecc4576802f7c5d46e9c",
+  "hostedImageCount": 148,
+  "hostedImageVerdict": "All 148 unauthenticated image URLs returned HTTP 200 and matched capture-inventory.json SHA-256 values.",
+  "scope": "Byte delivery verification only. Browser interaction and final game behavior remain unverified."
+}

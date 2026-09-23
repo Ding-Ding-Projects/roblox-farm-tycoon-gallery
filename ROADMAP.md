@@ -1,8 +1,8 @@
-## Current 148-image candidate
+## Current 148-image delivery
 
 - [x] Preserve the previous 146 records and image bytes, and add two reviewed original avatar-free earned-feedmill Play views.
 - [x] Verify all 148 local image hashes, decodes, static cards, newest-first ordering and privacy. The earlier 146 records and exclusions are unchanged.
-- [ ] Verify the exact public deployment, unauthenticated page and inventory bytes, and all 148 hosted image hashes.
+- [x] Verify deployment 35908563819 at content 1759b39, unauthenticated page and inventory bytes, and all 148 hosted image hashes. Browser interaction remains unverified.
 
 ## Current 146-image candidate
 
