@@ -1,7 +1,7 @@
 ## Current 95-image update
 
 - [x] Preserve four reviewed original feedmill views with validated UTC receipts and all 91 previous records.
-- [ ] Verify deployment, exact page/inventory and all 95 public image hashes.
+- [x] Verify deployment 35820698664, exact page/inventory and all 95 public image hashes at bde0353.
 
 ## Current 91-image update
 
