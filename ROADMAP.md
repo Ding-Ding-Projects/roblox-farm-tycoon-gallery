@@ -3,7 +3,7 @@
 - [x] Add seven pixel-reviewed original Play observations with validated UTC receipts, preserving all 122 earlier records and image bytes.
 - [x] Label the fitting bilingual heading and actual Build input, separate unresolved navigation truncation, unfinished silo rooms and four excluded diagnostics.
 - [x] Check all 129 local image hashes and decodes, record order, static card order and public-text privacy.
-- [ ] Verify public deployment, visibility, page and inventory delivery, and all 129 original image hashes after integration.
+- [x] Verify public deployment 35827983529 at `00e4d8e`, visibility, exact page and inventory blobs, and all 129 original image hashes. See [delivery evidence](evidence/gallery-129-live.json). Browser interaction was not repeated.
 
 ## Current 122-image update
 
