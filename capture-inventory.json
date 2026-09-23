@@ -48,16 +48,6 @@
       "sourceRef": "114b6f8f6c362fc025f3beff727f53356ac9d9a1"
     },
     {
-      "executionMode": "Play",
-      "capturedAt": "unavailable",
-      "image": "ledger-before-purchase.png",
-      "id": "ledger-before-purchase",
-      "privacy": "game-world-only",
-      "state": "physical ledger before purchase; purchase failed and no animal was granted",
-      "category": "livestock ledger",
-      "sha256": "c708ed3a60d970acb878337edd7cbdb87ac18d32d2c731e9c48e9928d5c1edfc"
-    },
-    {
       "id": "feedmill-restroom-before",
       "image": "feedmill-restroom-before.png",
       "category": "development-observation",
@@ -875,16 +865,6 @@
       "sha256": "c43a52bc96e3ba77d1003b5aae395c476a79a0ae23012a9e6b3a29ae87f90f6f"
     },
     {
-      "id": "first-harvest-hud",
-      "image": "verified-hud.png",
-      "category": "earlier",
-      "capturedAt": "2026-09-18T02:41:54Z",
-      "executionMode": "Play",
-      "state": "first harvest completed; detail panel closed",
-      "privacy": "game-world-only",
-      "sha256": "ec1fbc416f351da83d1559327c905f5f23f50eed731ae5e4905824d726e7ac3e"
-    },
-    {
       "id": "town-wc",
       "image": "town-wc.png",
       "category": "interior",
@@ -1043,6 +1023,26 @@
       "state": "header paired rows; panel closed",
       "privacy": "game-world-only",
       "sha256": "fcbfdcd2444ecdfcb1707d8d7f9a12329056870e7f2e9787338c736a65e4f270"
+    },
+    {
+      "id": "first-harvest-hud",
+      "image": "verified-hud.png",
+      "category": "earlier",
+      "capturedAt": "2026-09-18T02:41:54Z",
+      "executionMode": "Play",
+      "state": "first harvest completed; detail panel closed",
+      "privacy": "game-world-only",
+      "sha256": "ec1fbc416f351da83d1559327c905f5f23f50eed731ae5e4905824d726e7ac3e"
+    },
+    {
+      "executionMode": "Play",
+      "capturedAt": "unavailable",
+      "image": "ledger-before-purchase.png",
+      "id": "ledger-before-purchase",
+      "privacy": "game-world-only",
+      "state": "physical ledger before purchase; purchase failed and no animal was granted",
+      "category": "livestock ledger",
+      "sha256": "c708ed3a60d970acb878337edd7cbdb87ac18d32d2c731e9c48e9928d5c1edfc"
     }
   ],
   "excluded": [

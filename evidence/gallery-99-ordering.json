@@ -1,0 +1,16 @@
+{
+  "verifiedAtUtc": "2026-09-23T05:38:42Z",
+  "baseRef": "b80ee2ba2e446ba009ff83699fae5ffab478d505",
+  "priorLiveRef": "4ef2a170d4eeeed7db22d1ae89a0d90766528752",
+  "recordCount": 99,
+  "allRecordValuesPreserved": true,
+  "allImageHashesMatchedLocally": 99,
+  "datedTimestampsDescending": true,
+  "timestampTies": 0,
+  "unavailableDateCount": 1,
+  "unavailableDateLast": true,
+  "staticPageCardsExactInventoryOrder": true,
+  "staticPageCardCount": 99,
+  "method": "Compare record values against the base Git blob, sort ISO-8601 timestamps by absolute time, check unavailable-date placement, compare all 99 static card image names in order, and hash every local original image",
+  "deploymentStatus": "The prior 4ef2a17 live receipt remains valid for its exact deployment. This subsequent source ordering correction has not yet been deployed or independently read back."
+}
