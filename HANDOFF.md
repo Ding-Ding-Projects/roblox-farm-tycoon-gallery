@@ -1,3 +1,11 @@
+## September 23 earned feedmill amenities, 148-image local candidate
+
+Two original avatar-free Studio Play views from installed source `a6c298ecf19d1bc6c36389b1aa98522df66cf834` show the earned, constructed feedmill's lounge and restroom sink. Validated UTC receipt times are `2026-09-23T19:11:25.443361+00:00` and `2026-09-23T19:10:31.962565+00:00`. Separate private actual-input evidence records sitting, standing and close-range faucet use; the public images alone do not prove those actions. Furnishing remains sparse. The two avatar-containing input captures remain private. The previous 146 inventory records and original image bytes are preserved. All 148 local image hashes, decodes and static card positions pass; public delivery verification is pending.
+
+![Earned feedmill resting lounge, unfinished](images/feedmill-lounge-avatar-free-a6c298e.jpg)
+
+![Earned feedmill restroom sink, unfinished](images/feedmill-restroom-avatar-free-a6c298e.jpg)
+
 ## Current 146-image candidate
 
 An avatar-free original from installed source `a6c298ecf19d1bc6c36389b1aa98522df66cf834` shows the south lounge of an earned, constructed restroom. Its validated UTC time is `2026-09-23T18:16:30.292290+00:00` and image SHA-256 is `7fc040645837bbe03537ae90a764a134b083713df9eefe732531b0b2742b84ee`. The camera-only view shows the new rug and panel plus remaining sparse furniture. All 146 local images decode and match their inventory hashes, and all 146 static cards match inventory order. Public deployment `35901826724` succeeded at content `8605476`; unauthenticated page and inventory bytes and all 146 image URL hashes matched. [Delivery receipt](evidence/gallery-146-live.json) does not claim browser interaction. Earlier 145-image delivery remains documented below.

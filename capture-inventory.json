@@ -1,8 +1,30 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 146,
+  "publishedCaptureCount": 148,
   "publishable": [
+    {
+      "id": "feedmill-lounge-avatar-free-a6c298e",
+      "image": "feedmill-lounge-avatar-free-a6c298e.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T19:11:25.443361+00:00",
+      "executionMode": "Play",
+      "state": "Original camera-only Studio Play view of the earned, constructed feedmill lounge. Separate input showed a character sit and stand. Furnishing remains sparse, and this image alone does not prove seating or door travel.",
+      "privacy": "game-world-only",
+      "sha256": "e37fcec9fa293cb291b32d365155548013192af4cacd5e318eded2753bcd24f1",
+      "sourceRef": "a6c298ecf19d1bc6c36389b1aa98522df66cf834"
+    },
+    {
+      "id": "feedmill-restroom-avatar-free-a6c298e",
+      "image": "feedmill-restroom-avatar-free-a6c298e.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T19:10:31.962565+00:00",
+      "executionMode": "Play",
+      "state": "Original camera-only Studio Play view of the earned, constructed feedmill restroom sink. Separate close-range input triggered the faucet water effect. This image alone does not prove input, and the room remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "cefc232a5778ea94f87f148a16f3db92d9befa8a8d7c72a3a4b7c7408813c8dc",
+      "sourceRef": "a6c298ecf19d1bc6c36389b1aa98522df66cf834"
+    },
     {
       "id": "restroom-south-lounge-a6c298e",
       "image": "restroom-south-lounge-a6c298e.jpg",
@@ -1663,7 +1685,12 @@
       "category": "September 23 earned restroom route",
       "count": 1,
       "reason": "The walked interior Play view includes the account avatar and remains in private evidence. Two separate avatar-free camera-only views are published."
+    },
+    {
+      "category": "September 23 feedmill avatar-containing Play diagnostics",
+      "count": 2,
+      "reason": "The walked seating and faucet-input captures include account-avatar geometry. They remain private; the separate avatar-free room observations are published."
     }
   ],
-  "latestBatchNote": "Two original September 23 UTC Studio Play observations at source 6fe8a80 inspect the earned personal restroom and lounge after the light adjustment. They are camera-only views, with sparse furnishing disclosed. The separately walked interior original includes the account avatar and remains private. All earlier 143 gallery records and image bytes are preserved, newest first."
+  "latestBatchNote": "Two original avatar-free Studio Play camera views from the earned constructed feedmill show its resting lounge and restroom sink at installed source a6c298e. Separate private input records prove seating and a close-range faucet water effect. Sparse furnishing remains unfinished. The two avatar-containing input captures remain private. All earlier 146 gallery records and image bytes are preserved, newest first."
 }

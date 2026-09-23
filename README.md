@@ -1,3 +1,11 @@
+## September 23 earned feedmill amenities, 148-image local candidate
+
+Two original avatar-free Studio Play views from installed source `a6c298ecf19d1bc6c36389b1aa98522df66cf834` show the earned, constructed feedmill's lounge and restroom sink. Validated UTC receipt times are `2026-09-23T19:11:25.443361+00:00` and `2026-09-23T19:10:31.962565+00:00`. Separate private actual-input evidence records sitting, standing and close-range faucet use; the public images alone do not prove those actions. Furnishing remains sparse. The two avatar-containing input captures remain private. The previous 146 inventory records and original image bytes are preserved. All 148 local image hashes, decodes and static card positions pass; public delivery verification is pending.
+
+![Earned feedmill resting lounge, unfinished](images/feedmill-lounge-avatar-free-a6c298e.jpg)
+
+![Earned feedmill restroom sink, unfinished](images/feedmill-restroom-avatar-free-a6c298e.jpg)
+
 ## September 23 south-lounge development observation
 
 One reviewed original Studio Play view from installed source `a6c298ecf19d1bc6c36389b1aa98522df66cf834` brings the inventory to 146. Its validated UTC receipt time is `2026-09-23T18:16:30.292290+00:00`. The account earned and constructed the personal restroom before a camera-only inspection showed its new south rug and wall panel. Bare floor and undersized seating remain visible; this image does not prove door travel or furniture use in that revision. The previous 145 inventory entries and image bytes remain in place. [Deployment `35901826724`](https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35901826724) succeeded at content `8605476`; unauthenticated page and inventory bytes and all 146 hosted image hashes matched. [Delivery evidence](evidence/gallery-146-live.json) does not claim browser interaction.
