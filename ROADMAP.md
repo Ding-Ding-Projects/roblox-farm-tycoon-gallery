@@ -1,3 +1,10 @@
+## Current 131-image update
+
+- [x] Add two pixel-reviewed original Play observations with validated UTC receipts, preserving all 129 earlier records and image bytes.
+- [x] Label the current bilingual heading and navigation text fit at 1264 by 830 and actual Build input, while keeping older truncation captures historical.
+- [x] Check all 131 local image hashes and decodes, record order, static card order and public-text privacy.
+- [ ] Verify public deployment, visibility, page and inventory delivery, and all 131 original image hashes after integration.
+
 ## Current 129-image update
 
 - [x] Add seven pixel-reviewed original Play observations with validated UTC receipts, preserving all 122 earlier records and image bytes.

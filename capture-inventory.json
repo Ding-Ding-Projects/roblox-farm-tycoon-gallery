@@ -1,8 +1,30 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 129,
+  "publishedCaptureCount": 131,
   "publishable": [
+    {
+      "id": "board-build-645f4cc",
+      "image": "board-build-645f4cc.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:43:07.420836+00:00",
+      "executionMode": "Play",
+      "state": "Actual Open Build input opened the physical construction panel and suspended the tutorial in this Play session. The board heading and both bilingual navigation labels fit at the observed 1264 by 830 viewport. The panel retains unfinished styling and localization; the pointer highlight is an ordinary hover state.",
+      "privacy": "game-world-only",
+      "sha256": "c732bfc3194c2a2631ba21fad74dace81360cb215e57339f510fe082656c1279",
+      "sourceRef": "645f4ccf9b5a94d3dc6c8481182a0adf443cf9fb"
+    },
+    {
+      "id": "board-bilingual-645f4cc",
+      "image": "board-bilingual-645f4cc.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:43:05.680074+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode view shows the complete bilingual Farm and harvest heading and both complete navigation labels. Native text-fit measurements passed at the observed 1264 by 830 viewport. Detailed-panel styling, other device sizes and durable behavior remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "7cd60c321c182740b06ccaa5e34118115f896a2f06608d2259d924a81e29c429",
+      "sourceRef": "645f4ccf9b5a94d3dc6c8481182a0adf443cf9fb"
+    },
     {
       "id": "board-bilingual-build-d96ae7b",
       "image": "board-bilingual-build-d96ae7b.png",
@@ -1463,5 +1485,5 @@
       "reason": "Four other native views were withheld because of avatar obstruction, a wall-facing camera, or a premature requested-state label. They are not part of this public batch."
     }
   ],
-  "latestBatchNote": "Seven original September 23 UTC Play observations show the d96ae7b bilingual Farm-board heading and actual Build input, plus five unfinished owned-silo construction and room views from 5714f27. Separate bilingual navigation labels still truncate. The silo captures do not prove machinery operation, sanitary use, sitting, final art or a wholly walked helper approach."
+  "latestBatchNote": "Two original September 23 UTC Play observations at source 645f4cc show the bilingual Farm-board heading and both navigation labels fitting at 1264 by 830, plus actual Open Build input opening the construction panel and suspending the tutorial. The panel styling and localization, other device sizes, durable behavior and published startup remain unverified. Earlier d96ae7b views retain their separate historical navigation-truncation labels."
 }
