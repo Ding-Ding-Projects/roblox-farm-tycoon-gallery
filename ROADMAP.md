@@ -2,7 +2,7 @@
 
 - [x] Add four pixel-reviewed original Edit-mode authoring views with validated UTC receipts, preserving all 95 earlier records and image bytes.
 - [x] Label unfinished crop and blower artwork, isolated review pads, and the limits of static authoring evidence; exclude the earlier silo diagnostic and avatar-containing tutorial view.
-- [ ] Verify the 99-image deployment and unauthenticated public delivery of the exact page, inventory and all 99 image hashes. The 95-image hosted state remains verified.
+- [x] Verify deployment 35822848065 at `4ef2a17`, public visibility, exact page and inventory blobs, and all 99 public image hashes. Browser interaction was not repeated; the historical raw-inventory position of the date-unavailable ledger remains documented in [delivery evidence](evidence/gallery-99-live.json).
 
 ## Previous 95-image update
 
