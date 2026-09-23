@@ -1,0 +1,21 @@
+{
+  "verifiedAtUtc": "2026-09-23T16:24:26Z",
+  "galleryCommit": "cf160f90ea8df0c16069392e96a9e9527b33cb6e",
+  "sourceCaptureCommit": "b0451a4bff27bf367c3e66f5d21a7e8958c99179",
+  "sourceEvidenceCommit": "2fa9aee5c0b1b24c04d4d3b7bc547613fca9ac41",
+  "deploymentRun": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35888321755",
+  "deploymentStatus": "completed",
+  "deploymentConclusion": "success",
+  "repositoryVisibility": "PUBLIC",
+  "pageUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
+  "exactGitBlobReadback": {
+    "index.html": "8f76407f034dd7cbad384eca010975ed29efc277e3ad54c25a2203627a686cfa",
+    "capture-inventory.json": "adf7ee3d00646d81cfe39ce6844e3db5e82ced95822cc9b03734b594bb8f8ee1",
+    "images/hall-north-b0451a4.jpg": "caf91eddb1a7352fad5e9718492bd926e71b6f64ba1a95161612ec258b7581fe"
+  },
+  "publicImagesHashMatched": 143,
+  "previousRecordsPreserved": 142,
+  "newestFirst": true,
+  "privacyReview": "The published image has no account avatar, credential, private path, or private-source link. The avatar-containing east-corridor image remains private.",
+  "limits": "This confirms static public delivery and hashes, not browser interaction, game publication, persistent saving, or final visual quality."
+}

@@ -140,4 +140,4 @@
 ## Current 143-image candidate
 
 - [x] Add the reviewed avatar-free north-hall Play image with its validated source receipt and honest unfinished-art caption, preserving the previous 142 records.
-- [ ] Verify the new inventory, all 143 local image hashes, decode, newest-first order, private-content exclusion and deployed public readback.
+- [x] Verify the new inventory, all 143 local image hashes and decodes, newest-first order, private-content exclusion and deployed public readback at `cf160f9`. Browser interaction remains unverified.
