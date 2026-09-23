@@ -1,8 +1,63 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 105,
+  "publishedCaptureCount": 110,
   "publishable": [
+    {
+      "id": "accessible-sink-support-ccc0bd8",
+      "image": "accessible-sink-support-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:58:35.557150+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera close-up shows new floor-connected side supports beneath the accessible sink and a central opening. Source geometry measured a 2.15-stud gap. This image does not establish accessibility certification, sink operation or final finishes.",
+      "privacy": "game-world-only",
+      "sha256": "a61225dad9215896ba4de7973be8c89d71c6c4685f3d0d0433fd9e8cceeded01",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
+    {
+      "id": "urinal-support-ccc0bd8",
+      "image": "urinal-support-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:58:34.840274+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera close-up shows the urinal mounted on new service backing with a floor-connected partition return. It does not demonstrate flushing, fixture operation or final finishes.",
+      "privacy": "game-world-only",
+      "sha256": "2b462e455083c222431f3a94ad4437511dbcb7672712fd9e1d6387e7aef5ba46",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
+    {
+      "id": "restroom-supported-overview-ccc0bd8",
+      "image": "restroom-supported-overview-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:58:11.176540+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera view shows new urinal service backing and side supports beneath the accessible sink in the shared arrival restroom. Lighting and finishes remain provisional. This image does not demonstrate fixture operation or final accessibility.",
+      "privacy": "game-world-only",
+      "sha256": "1c79447ff369ebd78b230d46396dcbd70d7d3b9f66303e1b8aa0677a3b7742c4",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
+    {
+      "id": "tutorial-help-ccc0bd8",
+      "image": "tutorial-help-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:56:50.273836+00:00",
+      "executionMode": "Play",
+      "state": "An actual Help click opened the expanded tutorial in this Play session. The panel is visible beside the Farm board, but its hit-rectangle position is incorrect in this revision. This diagnostic does not establish usable placement.",
+      "privacy": "game-world-only",
+      "sha256": "9ee695d377c69b9a71d3be2f2a2720329f0af137c8d4dd9e310ba7726d5dd9f0",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
+    {
+      "id": "tutorial-compact-ccc0bd8",
+      "image": "tutorial-compact-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:55:16.190243+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode diagnostic shows the compact tutorial partly hidden behind the physical Farm board after an explicit Claim. Its controls are obscured from this view. The presentation defect remains unresolved.",
+      "privacy": "game-world-only",
+      "sha256": "3a57db205bea4fe0cd99993c8a9bbcc14159df4ac879838f008f5e6afedd1dfa",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
     {
       "id": "arrival-spa-769",
       "image": "arrival-spa.png",
@@ -1194,5 +1249,5 @@
       "reason": "Claim-ready, tutorial-help and tutorial-dismissed views include the account avatar and remain private."
     }
   ],
-  "latestBatchNote": "Six original September 23 UTC Play observations at source 769dcea show session-only Settings, unresolved compact tutorial overlap, and camera-only views of the shared arrival restrooms, break room, sauna and spa. Room furniture and supports remain unfinished; these views do not prove fixture use, seating or walking clearance."
+  "latestBatchNote": "Five original September 23 UTC Play observations at source ccc0bd8 show a compact tutorial still partly hidden by the Farm board, expanded Help with incorrect hit-rectangle placement, and camera-only restroom service backing and sink side supports. The images do not prove fixture operation, final accessibility or finished room art."
 }

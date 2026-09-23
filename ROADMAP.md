@@ -1,3 +1,10 @@
+## Current 110-image update
+
+- [x] Add five pixel-reviewed original Play observations with validated UTC receipts, preserving all 105 earlier records and image bytes.
+- [x] Label unresolved compact and expanded tutorial placement, camera-only restroom supports, and the limits of fixture and accessibility evidence.
+- [x] Check all 110 local image hashes and decodes, record order, static card order, and public-text privacy.
+- [ ] Verify public deployment, visibility, page and inventory delivery, and all 110 original image hashes after integration.
+
 ## Current 105-image update
 
 - [x] Add six pixel-reviewed original Play observations with validated UTC receipts, preserving all 99 earlier records and image bytes.
