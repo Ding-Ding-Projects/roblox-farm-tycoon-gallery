@@ -1,8 +1,85 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 122,
+  "publishedCaptureCount": 129,
   "publishable": [
+    {
+      "id": "board-bilingual-build-d96ae7b",
+      "image": "board-bilingual-build-d96ae7b.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:37:30.662985+00:00",
+      "executionMode": "Play",
+      "state": "Actual Open Build input opened the physical construction panel and suspended the tutorial in this Play session. The board heading fits at the observed 1264 by 830 viewport. Separate bilingual navigation copy still truncates and detailed-panel localization remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "a543c8a724a4717f2d07704113f6d397f1268ffed695f3e6ffd0fda2509e4aa9",
+      "sourceRef": "d96ae7be4127f9e817f605fdcebf53bec77f8650"
+    },
+    {
+      "id": "board-bilingual-d96ae7b",
+      "image": "board-bilingual-d96ae7b.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:37:03.682001+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode view shows the full four-line bilingual Farm and harvest heading above scrollable actions at 1264 by 830. Native text-fit measurement passed for this heading. Separate bilingual navigation labels still truncate; this is not full-interface acceptance.",
+      "privacy": "game-world-only",
+      "sha256": "6bf48a78dc577aad6a90e598fb35cb45a3651f038284c65ea84fb99e9c1a3114",
+      "sourceRef": "d96ae7be4127f9e817f605fdcebf53bec77f8650"
+    },
+    {
+      "id": "silo-lounge-5714f27",
+      "image": "silo-lounge-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:33:53.989811+00:00",
+      "executionMode": "Play",
+      "state": "This camera-only Play view shows the owned silo resting lounge with basic chairs, tables and floor treatment. Furniture remains unfinished. The image does not demonstrate sitting or walked clearance.",
+      "privacy": "game-world-only",
+      "sha256": "602893917b802e5bfb1de5a0fbfc24a097d5abaf92bd54beae67875f436c7ceb",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "silo-restroom-5714f27",
+      "image": "silo-restroom-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:33:52.956288+00:00",
+      "executionMode": "Play",
+      "state": "This camera-only Play view shows the owned silo restroom urinal and sinks. Lighting and finishes remain provisional. The image does not demonstrate sanitary use, fixture operation or an accepted access route.",
+      "privacy": "game-world-only",
+      "sha256": "171b98a37584d400c5772881bc944ee2b78b3335b515551e28bd82ad97f34fce",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "silo-machinery-5714f27",
+      "image": "silo-machinery-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:31:38.978642+00:00",
+      "executionMode": "Play",
+      "state": "This camera-only Play view shows the owned silo intake and elevator components. The machinery artwork and surroundings remain unfinished. The image does not demonstrate operation or crop handling.",
+      "privacy": "game-world-only",
+      "sha256": "a9a7dbbba534837544699373b13e2e2b857c7cbb302966819f20d9c5e26cd70c",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "silo-exterior-5714f27",
+      "image": "silo-exterior-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:30:40.600167+00:00",
+      "executionMode": "Play",
+      "state": "This Play view shows the owned constructed silo exterior after hall door travel. Its architecture and surrounding ground remain unfinished. Within-region helper positioning does not establish a wholly walked route.",
+      "privacy": "game-world-only",
+      "sha256": "bda6af2c2c0ddd8eefe1d964df264863586981b3164072de55cffd8cae1855a3",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
+    {
+      "id": "silo-build-panel-5714f27",
+      "image": "silo-build-panel-5714f27.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:27:24.315733+00:00",
+      "executionMode": "Play",
+      "state": "This Play view shows the physical Build panel and local preview after actual free-silo and starter-soil construction input. The preview is a temporary placement state, not evidence of final art, production or a wholly walked approach.",
+      "privacy": "game-world-only",
+      "sha256": "0b2c7d1ec0cdf2243887f1a5e9913ac969d871a2d703117906c3b967974a0fde",
+      "sourceRef": "5714f27c9cc0ee527b05db68d5ec6cb72aec4047"
+    },
     {
       "id": "tutorial-bilingual-help-5714f27",
       "image": "tutorial-bilingual-help-5714f27.png",
@@ -1379,7 +1456,12 @@
       "category": "September 23 avatar-containing Play captures",
       "count": 3,
       "reason": "Claim-ready, tutorial-help and tutorial-dismissed views include the account avatar and remain private."
+    },
+    {
+      "category": "September 23 silo route diagnostics",
+      "count": 4,
+      "reason": "Four other native views were withheld because of avatar obstruction, a wall-facing camera, or a premature requested-state label. They are not part of this public batch."
     }
   ],
-  "latestBatchNote": "Ten original September 23 UTC Play observations show an older 1b215c9 tutorial revision with a two-pixel Dismiss label-width defect and a later 5714f27 revision whose tutorial labels fit at the observed 1264-by-830 viewport after actual input. The separate bilingual Farm-board status still truncates. These captures do not verify touch, controller, smaller viewports, durable saving, final realism or published startup."
+  "latestBatchNote": "Seven original September 23 UTC Play observations show the d96ae7b bilingual Farm-board heading and actual Build input, plus five unfinished owned-silo construction and room views from 5714f27. Separate bilingual navigation labels still truncate. The silo captures do not prove machinery operation, sanitary use, sitting, final art or a wholly walked helper approach."
 }

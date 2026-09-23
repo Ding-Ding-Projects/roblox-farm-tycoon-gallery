@@ -1,3 +1,10 @@
+## Current 129-image update
+
+- [x] Add seven pixel-reviewed original Play observations with validated UTC receipts, preserving all 122 earlier records and image bytes.
+- [x] Label the fitting bilingual heading and actual Build input, separate unresolved navigation truncation, unfinished silo rooms and four excluded diagnostics.
+- [x] Check all 129 local image hashes and decodes, record order, static card order and public-text privacy.
+- [ ] Verify public deployment, visibility, page and inventory delivery, and all 129 original image hashes after integration.
+
 ## Current 122-image update
 
 - [x] Add ten pixel-reviewed original Play observations from two source revisions with validated UTC receipts, preserving all 112 earlier records and image bytes.
