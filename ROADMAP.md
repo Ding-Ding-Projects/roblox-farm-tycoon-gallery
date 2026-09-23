@@ -1,7 +1,7 @@
 ## Current 91-image update
 
 - [x] Retain the reviewed original hall Build panel and preserve all 90 earlier identities and hashes.
-- [ ] Verify hosted delivery of the 91-image update.
+- [x] Verify hosted delivery of the 91-image update at fe4394f: deployment 35818940494, exact page/inventory and all 91 original image hashes.
 
 ## Current 90-image update
 

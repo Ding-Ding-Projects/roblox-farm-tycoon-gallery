@@ -1,6 +1,6 @@
 ## Hall automatic construction navigation
 
-The gallery contains 91 reviewed originals. The newest capture shows actual hall Build navigation at `4c6c694`, with the original 90 identities and bytes preserved. Current artwork remains provisional. Local hash and privacy checks pass; hosted delivery of this addition is pending.
+The gallery contains 91 reviewed originals. The newest capture shows actual hall Build navigation at `4c6c694`, with the original 90 identities and bytes preserved. Current artwork remains provisional. Deployment [35818940494](https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35818940494) succeeded at `fe4394f53be29f45570c56f4cabda8a75c7bd3dd`. Unauthenticated readback matched the committed page, inventory and all 91 original image hashes; the hall capture is newest. See [delivery evidence](evidence/gallery-91-live.json). Browser interaction was not repeated.
 
 ## September 23 automatic controls and compact crops
 
