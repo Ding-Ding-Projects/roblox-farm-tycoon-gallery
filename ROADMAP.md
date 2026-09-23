@@ -137,3 +137,7 @@
 
 - [x] Retain three reviewed doorway, Claim and hall originals, preserving all 84 earlier identities and hashes.
 - [x] Verify public delivery of the 87-image update and newest-first data order: deployment 35815138042 succeeded and all 89 page, inventory and image resources match. Browser interaction was not repeated.
+## Current 143-image candidate
+
+- [x] Add the reviewed avatar-free north-hall Play image with its validated source receipt and honest unfinished-art caption, preserving the previous 142 records.
+- [ ] Verify the new inventory, all 143 local image hashes, decode, newest-first order, private-content exclusion and deployed public readback.

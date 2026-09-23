@@ -1,8 +1,19 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 142,
+  "publishedCaptureCount": 143,
   "publishable": [
+    {
+      "id": "hall-north-b0451a4",
+      "image": "hall-north-b0451a4.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T16:17:46.410925+00:00",
+      "executionMode": "Play",
+      "state": "Original Play view of the owned arrival hall after Claim and real doorway travel. The account avatar is outside the frame. The north doors, concierge counter, roof and floor are visible, but furnishing and wall detail remain provisional. This image does not prove all-building routes, complete construction or final visual quality.",
+      "privacy": "game-world-only",
+      "sha256": "caf91eddb1a7352fad5e9718492bd926e71b6f64ba1a95161612ec258b7581fe",
+      "sourceRef": "b0451a4bff27bf367c3e66f5d21a7e8958c99179"
+    },
     {
       "id": "bakery-open-hearth-f76081a",
       "image": "bakery-open-hearth-f76081a.png",
@@ -1609,7 +1620,12 @@
       "category": "September 23 building-stage diagnostics",
       "count": 14,
       "reason": "The nine arrival Play views include the account avatar or occluded fixture flow. Two isolated room-wall views are too tightly framed to explain the rooms. Three earlier review-pad views show an exposed temporary pad edge or the pre-repair open wall. All remain private; only the separately reviewed avatar-free bakery oven view is published."
+    },
+    {
+      "category": "September 23 east hall route",
+      "count": 1,
+      "reason": "The source-bound east-corridor Play view includes the account avatar and remains in private evidence."
     }
   ],
-  "latestBatchNote": "One original September 23 UTC Studio Edit observation at source f76081a shows the bakery oven's open hearth, arch, flue and canopy. Its broad wall and surrounding floor are provisional. Isolated authoring does not establish constructed personal grounds, working production or final architecture. Avatar-containing Play views and temporary review-pad diagnostics from the building stage remain private."
+  "latestBatchNote": "The newest original September 23 UTC Studio Play observation at source b0451a4 shows the owner arrival hall after Claim and doorway travel. The north doors and counter are visible while wall detail remains provisional. The separate east-corridor view includes the account avatar and stays private. Earlier 142 gallery images remain in chronological order."
 }
