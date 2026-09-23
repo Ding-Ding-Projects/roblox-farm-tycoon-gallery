@@ -1,8 +1,30 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 143,
+  "publishedCaptureCount": 145,
   "publishable": [
+    {
+      "id": "restroom-lounge-6fe8a80",
+      "image": "restroom-lounge-6fe8a80.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T17:45:10.016359+00:00",
+      "executionMode": "Play",
+      "state": "Original camera-only Play view of the earned, constructed personal restroom lounge. Two local ceiling pendants are installed, but seating and wall detail are still sparse. The image does not prove sitting, every building, or final visual quality.",
+      "privacy": "game-world-only",
+      "sha256": "ffdc395d6f5b6a268cf91ac3d49a620862d8b17ea00403cb0da9902e6f1f6075",
+      "sourceRef": "6fe8a80343a8eab1c804ae7725fb79f3174a1b51"
+    },
+    {
+      "id": "restroom-lighting-6fe8a80",
+      "image": "restroom-lighting-6fe8a80.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T17:44:20.152707+00:00",
+      "executionMode": "Play",
+      "state": "Original camera-only Play view of the earned, constructed personal restroom. Reduced pendant spill leaves floor tile and partitions legible, while the room remains unfinished. The actual doorway route was checked separately and is not proved by this image alone.",
+      "privacy": "game-world-only",
+      "sha256": "fbd5ae21c1b9de5a9b15ab342c587351cd2e7f6f054e32cf2120cf393b164708",
+      "sourceRef": "6fe8a80343a8eab1c804ae7725fb79f3174a1b51"
+    },
     {
       "id": "hall-north-b0451a4",
       "image": "hall-north-b0451a4.jpg",
@@ -1625,7 +1647,12 @@
       "category": "September 23 east hall route",
       "count": 1,
       "reason": "The source-bound east-corridor Play view includes the account avatar and remains in private evidence."
+    },
+    {
+      "category": "September 23 earned restroom route",
+      "count": 1,
+      "reason": "The walked interior Play view includes the account avatar and remains in private evidence. Two separate avatar-free camera-only views are published."
     }
   ],
-  "latestBatchNote": "The newest original September 23 UTC Studio Play observation at source b0451a4 shows the owner arrival hall after Claim and doorway travel. The north doors and counter are visible while wall detail remains provisional. The separate east-corridor view includes the account avatar and stays private. Earlier 142 gallery images remain in chronological order."
+  "latestBatchNote": "Two original September 23 UTC Studio Play observations at source 6fe8a80 inspect the earned personal restroom and lounge after the light adjustment. They are camera-only views, with sparse furnishing disclosed. The separately walked interior original includes the account avatar and remains private. All earlier 143 gallery records and image bytes are preserved, newest first."
 }

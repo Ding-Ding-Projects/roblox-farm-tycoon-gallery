@@ -1,3 +1,10 @@
+## Current 145-image candidate
+
+- [x] Add two privacy-reviewed original Play camera views with source receipt times and hashes, retaining the previous 143 records and image bytes.
+- [x] Restore the existing hall-north static card and verify all 145 cards follow the inventory's newest-first order.
+- [x] Decode and hash-check the two additions, and verify every local inventory image against its record.
+- [ ] Verify the public deployment, unauthenticated page and inventory, and all 145 image URLs and hashes before calling this update delivered.
+
 ## Current 142-image delivery
 
 - [x] Add one privacy-reviewed original bakery authoring view with its validated capture time, source revision and hash, preserving the earlier 141 image files and records.
