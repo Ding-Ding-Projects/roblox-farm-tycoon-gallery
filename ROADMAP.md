@@ -3,7 +3,7 @@
 - [x] Add six pixel-reviewed original Play observations with validated UTC receipts, preserving all 99 earlier records and image bytes.
 - [x] Label the unresolved tutorial overlap, session-only Settings, and unfinished camera-only room views; exclude three avatar-containing views.
 - [x] Check all 105 local image hashes and decodes, record order, static card order, and public-text privacy.
-- [ ] Verify public deployment, visibility, page and inventory delivery, and all 105 original image hashes after integration.
+- [x] Verify public deployment 35824263321 at `e1bebfb`, visibility, exact page and inventory blobs, and all 105 original image hashes. See [delivery evidence](evidence/gallery-105-live.json). Browser interaction was not repeated.
 
 ## Current 99-image update
 
