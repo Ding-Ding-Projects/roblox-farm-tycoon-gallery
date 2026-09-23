@@ -1,3 +1,10 @@
+## Current 133-image update
+
+- [x] Add two pixel-reviewed silo Inventory and automatic-board observations with validated UTC receipts, preserving all 131 earlier records and image bytes.
+- [x] Label actual recorded keyboard and panel input separately from later camera views, and identify the incorrect 18/100 barn count without claiming repair.
+- [x] Exclude six avatar-obstructed diagnostics and check all 133 local image hashes, decodes, chronology, static cards and privacy.
+- [ ] Verify public deployment, visibility, exact page and inventory readback, and all 133 image hashes after integration.
+
 ## Current 131-image update
 
 - [x] Add two pixel-reviewed original Play observations with validated UTC receipts, preserving all 129 earlier records and image bytes.

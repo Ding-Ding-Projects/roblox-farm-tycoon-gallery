@@ -1,8 +1,30 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 131,
+  "publishedCaptureCount": 133,
   "publishable": [
+    {
+      "id": "silo-automatic-ledger-645f4cc",
+      "image": "silo-automatic-ledger-645f4cc.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:58:48.427240+00:00",
+      "executionMode": "Play",
+      "state": "After actual Close input restored the automatic board, it showed barn occupancy 18/100 even though the detailed silo inventory showed 0/100. The barn count is an observed defect, not a corrected result. The separate camera view does not show the walked approach; HUD overlap and artwork remain unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "80485448e7908874f5e29827dbbf03991847cc5012409d81f00dc0a148e3983f",
+      "sourceRef": "645f4ccf9b5a94d3dc6c8481182a0adf443cf9fb"
+    },
+    {
+      "id": "silo-inventory-camera-observation-645f4cc",
+      "image": "silo-inventory-camera-observation-645f4cc.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:58:28.131773+00:00",
+      "executionMode": "Play",
+      "state": "The detailed Inventory panel shows Crop silo 0/100 after recorded keyboard walking and actual Open Inventory input. The character then returned to the aisle for this separate camera view. The image itself does not prove the route or panel input; HUD overlap and panel styling remain unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "016cdea3975141761fc3cc16257c56af74f13438ee2fe3c8294d16a4aa0ebf2d",
+      "sourceRef": "645f4ccf9b5a94d3dc6c8481182a0adf443cf9fb"
+    },
     {
       "id": "board-build-645f4cc",
       "image": "board-build-645f4cc.png",
