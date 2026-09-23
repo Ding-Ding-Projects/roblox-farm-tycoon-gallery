@@ -1,8 +1,74 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 99,
+  "publishedCaptureCount": 105,
   "publishable": [
+    {
+      "id": "arrival-spa-769",
+      "image": "arrival-spa.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:38:49.430214+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera view shows the shared arrival spa pool and sparse seating. Lighting and furnishings remain unfinished. It does not demonstrate spa service, sitting or walking clearance.",
+      "privacy": "game-world-only",
+      "sha256": "373c96d81d05be548255c73cd23dec9f87440fad5efcd77a0f3842608803a2a4",
+      "sourceRef": "769dcea28f3525b8f0028b4a71591021008b1c03"
+    },
+    {
+      "id": "arrival-sauna-769",
+      "image": "arrival-sauna.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:38:48.473187+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera view shows the shared arrival sauna benches and heater. The room remains dim and sparsely detailed. It does not demonstrate heat controls, sitting or walking clearance.",
+      "privacy": "game-world-only",
+      "sha256": "6d8ec5b8dc8c36226e97eff95aca46a9b8b0a973f511a68408a5ae65ef6d69c7",
+      "sourceRef": "769dcea28f3525b8f0028b4a71591021008b1c03"
+    },
+    {
+      "id": "arrival-breakroom-769",
+      "image": "arrival-breakroom.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:38:47.479033+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera view shows the shared arrival break room table, chairs and counter. Furniture and support details remain unfinished. It does not demonstrate sitting or walking clearance.",
+      "privacy": "game-world-only",
+      "sha256": "9be3cd87c2bab71d5fc61614d6ec8d3f02ed7670703c2a0c77fc8429efe9105c",
+      "sourceRef": "769dcea28f3525b8f0028b4a71591021008b1c03"
+    },
+    {
+      "id": "arrival-restrooms-769",
+      "image": "arrival-restrooms.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:38:46.435757+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera view shows the shared arrival restroom partitions, urinal and sinks. Fixtures and finishes remain provisional. It does not demonstrate fixture operation or walking clearance.",
+      "privacy": "game-world-only",
+      "sha256": "2b63c5fcacd7edd6e2fada7ea0854a51523325107824ee0cccd72f4efd5dc255",
+      "sourceRef": "769dcea28f3525b8f0028b4a71591021008b1c03"
+    },
+    {
+      "id": "settings-open-769",
+      "image": "settings-open.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:36:54.636538+00:00",
+      "executionMode": "Play",
+      "state": "The Settings button opened this panel in one Play session. The panel states that preferences are session-only. This image does not demonstrate durable preference saving or later rejoining.",
+      "privacy": "game-world-only",
+      "sha256": "3bdd54c6fe16fb948f5e7c248d5994d221f1b80959912a2e1fe96f70bba47c42",
+      "sourceRef": "769dcea28f3525b8f0028b4a71591021008b1c03"
+    },
+    {
+      "id": "tutorial-compact-diagnostic-769",
+      "image": "tutorial-compact-diagnostic.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T05:33:47.716962+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode diagnostic shows the compact tutorial covering the physical Farm board controls. The overlap remains unresolved in this revision. It does not demonstrate a usable board while the tutorial is open.",
+      "privacy": "game-world-only",
+      "sha256": "da1f585b42acdec793277859a8dde68303b69ff99c560aa3d1af852d68414eda",
+      "sourceRef": "769dcea28f3525b8f0028b4a71591021008b1c03"
+    },
     {
       "id": "carrot-native-detail",
       "image": "carrot-native-detail.png",
@@ -1121,7 +1187,12 @@
     {
       "category": "September 23 feedmill machinery diagnostic",
       "reason": "The machinery view contains account-avatar geometry. It remains private and is not published. The reviewed worker view depicts only the project NPC."
+    },
+    {
+      "category": "September 23 avatar-containing Play captures",
+      "count": 3,
+      "reason": "Claim-ready, tutorial-help and tutorial-dismissed views include the account avatar and remain private."
     }
   ],
-  "latestBatchNote": "Four original September 23 UTC Edit-mode authoring observations at source 114b6f8: carrot, corn, wheat and silo blower details. Isolated review pads and artwork remain unfinished. These static images do not prove working production, growth, harvest, safe playable grounds or final realism."
+  "latestBatchNote": "Six original September 23 UTC Play observations at source 769dcea show session-only Settings, unresolved compact tutorial overlap, and camera-only views of the shared arrival restrooms, break room, sauna and spa. Room furniture and supports remain unfinished; these views do not prove fixture use, seating or walking clearance."
 }

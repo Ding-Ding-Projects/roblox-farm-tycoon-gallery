@@ -1,3 +1,10 @@
+## Current 105-image update
+
+- [x] Add six pixel-reviewed original Play observations with validated UTC receipts, preserving all 99 earlier records and image bytes.
+- [x] Label the unresolved tutorial overlap, session-only Settings, and unfinished camera-only room views; exclude three avatar-containing views.
+- [x] Check all 105 local image hashes and decodes, record order, static card order, and public-text privacy.
+- [ ] Verify public deployment, visibility, page and inventory delivery, and all 105 original image hashes after integration.
+
 ## Current 99-image update
 
 - [x] Add four pixel-reviewed original Edit-mode authoring views with validated UTC receipts, preserving all 95 earlier records and image bytes.
