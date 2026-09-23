@@ -1,8 +1,19 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 90,
+  "publishedCaptureCount": 91,
   "publishable": [
+    {
+      "id": "hall-automatic-build",
+      "image": "hall-automatic-build.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-23T04:32:01.826970+00:00",
+      "executionMode": "Play",
+      "state": "Actual front-side Open Build input opens the hall construction panel. Closing it restores the automatic board. Paired server/client observations confirm this farm-to-hall transfer. Architecture and panel artwork remain provisional; durable online saving is not established.",
+      "privacy": "game-world-only",
+      "sha256": "7c48aa7cd86b62a0c74e83588d87953cacc5ae5616e9ddaaceef732806463933",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
     {
       "id": "compact-corn-countdown",
       "image": "compact-corn-countdown.png",

@@ -1,3 +1,8 @@
+## Current 91-image update
+
+- [x] Retain the reviewed original hall Build panel and preserve all 90 earlier identities and hashes.
+- [ ] Verify hosted delivery of the 91-image update.
+
 ## Current 90-image update
 
 - [x] Add three reviewed original countdown, reward and automatic-navigation captures with validated UTC provenance.
