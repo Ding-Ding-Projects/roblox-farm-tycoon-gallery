@@ -1,8 +1,30 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 110,
+  "publishedCaptureCount": 112,
   "publishable": [
+    {
+      "id": "arrival-waiting-seats-ccc0bd8",
+      "image": "arrival-waiting-seats-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:03:03.061494+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera close-up shows the shared arrival waiting chairs, low table and planter. The shapes and support details remain provisional. This image does not demonstrate actual sitting, walking clearance or accepted realism.",
+      "privacy": "game-world-only",
+      "sha256": "95de114cc913ec2f933f50081fb1523c59c21224cda832f9bfe5669a44e74a41",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
+    {
+      "id": "arrival-reception-ccc0bd8",
+      "image": "arrival-reception-ccc0bd8.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T06:03:02.163268+00:00",
+      "executionMode": "Play",
+      "state": "This Play-mode camera overview shows the reception counter, divider, rugs and adjacent waiting area. Furniture and finishes remain provisional. This image does not demonstrate actual seating, a walked arrival route or accepted realism.",
+      "privacy": "game-world-only",
+      "sha256": "5c8a884558f2b0c87cd4c51b5cbca5abf170e98a6d606a89a3b0335d6adb7838",
+      "sourceRef": "ccc0bd8594e1c82910e8232cc5ccb152b75ac5fb"
+    },
     {
       "id": "accessible-sink-support-ccc0bd8",
       "image": "accessible-sink-support-ccc0bd8.png",
@@ -1249,5 +1271,5 @@
       "reason": "Claim-ready, tutorial-help and tutorial-dismissed views include the account avatar and remain private."
     }
   ],
-  "latestBatchNote": "Five original September 23 UTC Play observations at source ccc0bd8 show a compact tutorial still partly hidden by the Farm board, expanded Help with incorrect hit-rectangle placement, and camera-only restroom service backing and sink side supports. The images do not prove fixture operation, final accessibility or finished room art."
+  "latestBatchNote": "Two original September 23 UTC Play camera views at source ccc0bd8 show provisional shared arrival reception and waiting-seat furniture. The captures do not prove actual sitting, a walked route or accepted realism. Earlier tutorial placement and restroom limitations remain as stated."
 }
