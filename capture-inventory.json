@@ -1,8 +1,62 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 91,
+  "publishedCaptureCount": 95,
   "publishable": [
+    {
+      "executionMode": "Play",
+      "capturedAt": "unavailable",
+      "image": "ledger-before-purchase.png",
+      "id": "ledger-before-purchase",
+      "privacy": "game-world-only",
+      "state": "physical ledger before purchase; purchase failed and no animal was granted",
+      "category": "livestock ledger",
+      "sha256": "c708ed3a60d970acb878337edd7cbdb87ac18d32d2c731e9c48e9928d5c1edfc"
+    },
+    {
+      "id": "feedmill-restroom-before",
+      "image": "feedmill-restroom-before.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T04:53:34.547567+00:00",
+      "executionMode": "Play",
+      "state": "The constructed feedmill has modeled restroom fixtures and partitions. This camera-only view records provisional lighting and finishes. Fixture operation and final structural acceptance are not established by this image.",
+      "privacy": "game-world-only",
+      "sha256": "2dba694731bc53aed835937eb8332a79e16fea66a315812abacf207aacfe7512",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
+    {
+      "id": "feedmill-lounge-before",
+      "image": "feedmill-lounge-before.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T04:53:33.396565+00:00",
+      "executionMode": "Play",
+      "state": "The constructed feedmill lounge currently has basic wooden seating and sparse decoration. This camera-only view records unfinished furniture and room design, not accepted realism or seating operation.",
+      "privacy": "game-world-only",
+      "sha256": "d7d7173e10bf47a4a7ed7ad31f9ce85d39948fdc07cdb3b710b2e3a65eb5cf3a",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
+    {
+      "id": "feedmill-amenity-approach",
+      "image": "feedmill-amenity-approach.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T04:52:21.397306+00:00",
+      "executionMode": "Play",
+      "state": "The feedmill has a signed entrance to its restroom and resting lounge. The HUD overlaps the sign from this camera angle. Furnishing, lighting and sign clearance remain unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "c2651f9e1d89ed1e4aa759f4ae654590db1c470c8d42bc1057586f654ce29203",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
+    {
+      "id": "feedmill-worker-before",
+      "image": "feedmill-worker-before.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T04:50:04.435718+00:00",
+      "executionMode": "Play",
+      "state": "The factory worker is present after earned construction and actual door travel. Clicking the visible head did not open production in this revision. A separate repair is pending native acceptance; this image does not claim working production.",
+      "privacy": "game-world-only",
+      "sha256": "ce8ba81c59932f1e0c6660bb980320e32917308bcdce25a989a77d969c6db032",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
     {
       "id": "hall-automatic-build",
       "image": "hall-automatic-build.png",
@@ -777,6 +831,16 @@
       "sha256": "c43a52bc96e3ba77d1003b5aae395c476a79a0ae23012a9e6b3a29ae87f90f6f"
     },
     {
+      "id": "first-harvest-hud",
+      "image": "verified-hud.png",
+      "category": "earlier",
+      "capturedAt": "2026-09-18T02:41:54Z",
+      "executionMode": "Play",
+      "state": "first harvest completed; detail panel closed",
+      "privacy": "game-world-only",
+      "sha256": "ec1fbc416f351da83d1559327c905f5f23f50eed731ae5e4905824d726e7ac3e"
+    },
+    {
       "id": "town-wc",
       "image": "town-wc.png",
       "category": "interior",
@@ -935,26 +999,6 @@
       "state": "header paired rows; panel closed",
       "privacy": "game-world-only",
       "sha256": "fcbfdcd2444ecdfcb1707d8d7f9a12329056870e7f2e9787338c736a65e4f270"
-    },
-    {
-      "id": "first-harvest-hud",
-      "image": "verified-hud.png",
-      "category": "earlier",
-      "capturedAt": "2026-09-18T02:41:54Z",
-      "executionMode": "Play",
-      "state": "first harvest completed; detail panel closed",
-      "privacy": "game-world-only",
-      "sha256": "ec1fbc416f351da83d1559327c905f5f23f50eed731ae5e4905824d726e7ac3e"
-    },
-    {
-      "executionMode": "Play",
-      "capturedAt": "unavailable",
-      "image": "ledger-before-purchase.png",
-      "id": "ledger-before-purchase",
-      "privacy": "game-world-only",
-      "state": "physical ledger before purchase; purchase failed and no animal was granted",
-      "category": "livestock ledger",
-      "sha256": "c708ed3a60d970acb878337edd7cbdb87ac18d32d2c731e9c48e9928d5c1edfc"
     }
   ],
   "excluded": [
@@ -1019,7 +1063,11 @@
     {
       "category": "uncurated September 22 runtime captures",
       "reason": "Other captures from the same review set are withheld: avatar-obstructed controls, temporary component probes, superseded or intermediate room views, and the later UI candidate whose enlarged HUD and settings panel still overlap. Only the three individually reviewed original captures above are included."
+    },
+    {
+      "category": "September 23 feedmill machinery diagnostic",
+      "reason": "The machinery view contains account-avatar geometry. It remains private and is not published. The reviewed worker view depicts only the project NPC."
     }
   ],
-  "latestBatchNote": "Four original Play captures preserve the bilingual enlarged HUD, an earlier enlarged HUD, the English settings panel and a provisional lounge. The newest HUD shows both language lines fitting at 1264 by 830 after actual input and closing settings; smaller viewports, display scales and the separate settings overlap remain unverified."
+  "latestBatchNote": "Four original September 23 UTC feedmill interior observations. Restroom, lounge, entrance and worker remain labelled unfinished. No production or fixture-operation success is inferred from these camera-only views."
 }

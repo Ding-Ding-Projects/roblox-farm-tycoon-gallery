@@ -1,3 +1,8 @@
+## Current 95-image update
+
+- [x] Preserve four reviewed original feedmill views with validated UTC receipts and all 91 previous records.
+- [ ] Verify deployment, exact page/inventory and all 95 public image hashes.
+
 ## Current 91-image update
 
 - [x] Retain the reviewed original hall Build panel and preserve all 90 earlier identities and hashes.

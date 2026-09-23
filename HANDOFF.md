@@ -1,3 +1,7 @@
+## Feedmill interior observations
+
+Four original views at source `4c6c694` add the restroom, lounge, amenity entrance and worker, bringing the reviewed inventory to 95. All previous 91 records and image bytes are unchanged. Captions explicitly record unfinished furnishing, sign overlap and the worker-head click failure. The account-avatar machinery diagnostic is excluded. Local hashes and image decodes pass; hosted delivery of this update is pending.
+
 ## Hall automatic construction navigation
 
 The gallery contains 91 reviewed originals. The newest capture shows actual hall Build navigation at `4c6c694`, with the original 90 identities and bytes preserved. Current artwork remains provisional. Deployment [35818940494](https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35818940494) succeeded at `fe4394f53be29f45570c56f4cabda8a75c7bd3dd`. Unauthenticated readback matched the committed page, inventory and all 91 original image hashes; the hall capture is newest. See [delivery evidence](evidence/gallery-91-live.json). Browser interaction was not repeated.
