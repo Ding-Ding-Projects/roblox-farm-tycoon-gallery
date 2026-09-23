@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "verifiedAtUtc": "2026-09-23T20:39:11Z",
+  "contentCommit": "192a44c4a95397c57dc85a6c1f77b477a3aeb405",
+  "deploymentRun": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35917227168",
+  "deploymentConclusion": "success",
+  "galleryUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
+  "pageBlobSha256": "f69974316a87c939b13139df436fbec469d7f8b6bfcc1564e2f4ad293ea501a9",
+  "inventoryBlobSha256": "adee983bd1b855da60716a8ca39399028bd94d48ce0ee8048c03c76911762f33",
+  "hostedImageCount": 149,
+  "hostedImageVerdict": "At c714b85, all 149 unauthenticated image URLs returned HTTP 200 and matched inventory SHA-256 values. Commit 192a44c changed only latestBatchNote, preserving all 149 image records. Its deployed page and corrected inventory matched exact committed bytes; the newest image URL was rechecked at HTTP 200 with matching SHA-256.",
+  "scope": "Static byte delivery verification only. Browser interaction, final artwork and published Roblox game behavior remain unverified."
+}
