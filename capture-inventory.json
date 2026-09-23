@@ -1,8 +1,41 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 84,
+  "publishedCaptureCount": 87,
   "publishable": [
+    {
+      "id": "personal-hall-circulation",
+      "image": "personal-hall-circulation.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T03:30:16.610810+00:00",
+      "executionMode": "Play",
+      "state": "Camera-only inspection after an actual farm and hall round trip. The central walking route is clear, while the hall furniture and architecture remain provisional. This image alone does not prove movement or saving.",
+      "privacy": "game-world-only",
+      "sha256": "999734fd01a86ad64367a1e499faf5ddefdcc4b891cf4c909c09757f1df1e2c8",
+      "sourceRef": "804d2ddbf36010d87b4b6ea1df40f129470f5217"
+    },
+    {
+      "id": "door-approach-guidance",
+      "image": "door-approach-guidance.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-23T03:28:42.739005+00:00",
+      "executionMode": "Play",
+      "state": "Actual selection outside the doorway reach produces visible approach guidance below the overhead beam. Camera-only front inspection at 1264 by 830; a separate oblique view remains occluded by the farm ledger. Gateway architecture is provisional.",
+      "privacy": "game-world-only",
+      "sha256": "fbf9317a93b2c47bac684faa737ba161c0873a2abb256a0b8a04999700416f63",
+      "sourceRef": "804d2ddbf36010d87b4b6ea1df40f129470f5217"
+    },
+    {
+      "id": "physical-claim-bilingual",
+      "image": "physical-claim-bilingual.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-23T03:20:32.329974+00:00",
+      "executionMode": "Play",
+      "state": "Actual Both preference selection and closed settings. The physical Claim board appears automatically on approach and keeps claiming explicit. All 27 inspected text controls reported fitting at 1264 by 830; smaller viewports and device input remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "94eb228c358d49fa3a396db5db478178a6e09cdc74a69fef09869140906aa96f",
+      "sourceRef": "804d2ddbf36010d87b4b6ea1df40f129470f5217"
+    },
     {
       "id": "hud-bilingual",
       "image": "hud-bilingual.png",
