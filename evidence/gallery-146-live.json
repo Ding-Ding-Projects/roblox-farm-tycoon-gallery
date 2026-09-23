@@ -1,0 +1,28 @@
+{
+  "verifiedAtUtc": "2026-09-23T18:22:06Z",
+  "contentCommit": "86054768a1a40d315b5bbd2a1cd81d7c1c5fc60a",
+  "repositoryVisibility": "PUBLIC",
+  "deployment": {
+    "runId": 35901826724,
+    "url": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35901826724",
+    "status": "completed",
+    "conclusion": "success",
+    "headSha": "86054768a1a40d315b5bbd2a1cd81d7c1c5fc60a"
+  },
+  "publicUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
+  "unauthenticatedHttp": {
+    "pageStatus": 200,
+    "pageMatchesCommittedBytes": true,
+    "pageSha256": "6badb23124293b4b3c247957606cdcf06cd0bc3b16d807ef018a09660e2c2d73",
+    "inventoryStatus": 200,
+    "inventoryMatchesCommittedBytes": true,
+    "inventorySha256": "83d743fd73cfd055f6ddc95acdf62253e1aaadf80fec61834cfacf02439bff9f",
+    "imagesChecked": 146,
+    "allImageStatuses": 200,
+    "allImageHashesMatchInventory": true
+  },
+  "limits": [
+    "No browser interaction was repeated for this delivery.",
+    "Gallery publication does not publish the Roblox experience or prove game mechanics."
+  ]
+}

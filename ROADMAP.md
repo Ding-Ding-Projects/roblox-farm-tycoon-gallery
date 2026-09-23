@@ -2,7 +2,7 @@
 
 - [x] Add the reviewed original south-lounge view with its validated UTC receipt, hash and explicit unfinished-artwork limit.
 - [x] Verify all 146 local image hashes, image decodes and static cards against newest-first inventory order.
-- [ ] Verify the public deployment, unauthenticated page and inventory bytes, and all 146 hosted image URLs and hashes.
+- [x] Verify deployment `35901826724` at content `8605476`, unauthenticated page and inventory bytes, and all 146 hosted image URLs and hashes. Browser interaction remains unverified.
 
 ## Earlier 145-image delivery
 
