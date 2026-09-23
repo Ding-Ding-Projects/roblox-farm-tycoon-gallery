@@ -4,7 +4,7 @@
 - [x] Distinguish separately recorded actual input from camera views and label the remaining compact bilingual overlap and unfinished art.
 - [x] Check 141 local image hashes, decodes, chronological order, static cards and public privacy.
 - [x] Preserve and verify the six raw source captures and receipts in source history before public delivery.
-- [ ] Verify public deployment, visibility, exact page and inventory readback, and all 141 image hashes after integration.
+- [x] Verify public deployment `35832272454` at `2bebcafa2dabbdcaf137feba2d623cd414ab0dd0`, visibility, exact page and inventory bytes, all 141 image URL hashes and local decodes, newest-first card order, and preservation of all 18 exclusions. See [delivery evidence](evidence/gallery-141-live.json). Browser rendering was not checked.
 
 ## Current 135-image update
 
