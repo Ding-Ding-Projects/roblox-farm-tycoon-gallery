@@ -3,7 +3,7 @@
 - [x] Add two reviewed original English and bilingual silo-category Play captures with validated UTC receipts, preserving all 133 earlier records and image bytes.
 - [x] Label the corrected silo 0/100 separately from barn 18/100 and keep the older wrong-count images historical.
 - [x] Record the camera-angle tutorial occlusion and unfinished art; check 135 local hashes, decodes, chronological order, static cards and privacy.
-- [ ] Verify public deployment, visibility, exact page and inventory readback, and all 135 image hashes after integration.
+- [x] Verify public deployment 35830445822 at `e0108d5`, visibility, exact page and inventory blobs, and all 135 original image hashes. See [delivery evidence](evidence/gallery-135-live.json). Browser interaction was not repeated.
 
 ## Current 133-image update
 
