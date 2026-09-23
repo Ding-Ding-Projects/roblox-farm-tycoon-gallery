@@ -1,0 +1,22 @@
+{
+  "verifiedAtUtc": "2026-09-23T18:02:01Z",
+  "galleryContentCommit": "8ab6348e4dada001b151dace594865bacefbacac",
+  "sourceCaptureCommit": "6fe8a80343a8eab1c804ae7725fb79f3174a1b51",
+  "sourceEvidenceCommit": "1d07cb306245e0de5e7e2997ef7bce1a4ced02e6",
+  "deploymentRun": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35899438133",
+  "deploymentStatus": "completed",
+  "deploymentConclusion": "success",
+  "repositoryVisibility": "PUBLIC",
+  "pageUrl": "https://ding-ding-projects.github.io/roblox-farm-tycoon-gallery/",
+  "exactContentReadback": {
+    "indexHtmlSha256": "696af26700e85a176124cdf84a317467186b922beef87073a5b41d1f61baa4d5",
+    "inventoryJsonSha256": "ff1c067ecb7684a7224402f6d76c940e1d54e665c503f7f170904aa9c06c81a6",
+    "bothMatchedCommitBytes": true
+  },
+  "publicImagesHashMatched": 145,
+  "previousRecordsPreserved": 143,
+  "staticCards": 145,
+  "newestFirst": true,
+  "privacyReview": "Two new originals contain no account avatar, credential, private path or private-source link. The separate avatar-containing walking view remains private.",
+  "limits": "This confirms static public delivery and hashes, not browser interaction, Roblox game publication, durable saving or final visual quality."
+}

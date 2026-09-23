@@ -3,7 +3,7 @@
 - [x] Add two privacy-reviewed original Play camera views with source receipt times and hashes, retaining the previous 143 records and image bytes.
 - [x] Restore the existing hall-north static card and verify all 145 cards follow the inventory's newest-first order.
 - [x] Decode and hash-check the two additions, and verify every local inventory image against its record.
-- [ ] Verify the public deployment, unauthenticated page and inventory, and all 145 image URLs and hashes before calling this update delivered.
+- [x] Verify public deployment `35899438133`, unauthenticated page and inventory bytes, and all 145 image URLs and hashes at `8ab6348`.
 
 ## Current 142-image delivery
 
