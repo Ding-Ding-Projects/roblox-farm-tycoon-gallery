@@ -2,7 +2,7 @@
 
 - [x] Add three reviewed original countdown, reward and automatic-navigation captures with validated UTC provenance.
 - [x] Preserve all 87 previous identities and bytes and maintain newest-first order.
-- [ ] Verify the exact deployed page, inventory and all 90 image deliveries.
+- [x] Verify the exact deployed page, inventory and all 90 image deliveries at `52c765d`; deployment 35818111508 succeeded and every original hash matched.
 
 # Gallery roadmap
 
