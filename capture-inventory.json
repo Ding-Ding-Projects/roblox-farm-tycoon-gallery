@@ -1,8 +1,41 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 87,
+  "publishedCaptureCount": 90,
   "publishable": [
+    {
+      "id": "compact-corn-countdown",
+      "image": "compact-corn-countdown.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-23T04:18:01.750474+00:00",
+      "executionMode": "Play",
+      "state": "Actual planting after earned crop selection. The in-world instrument shows five seconds remaining on an eight-second corn job. Original Studio pixels; final crop artwork and durable online saving remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "2cdc2c6b471d448ac6c291d496c45436c132cbe8f5366ca095160fc9edb1db8f",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
+    {
+      "id": "compact-corn-reward",
+      "image": "compact-corn-reward.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-23T04:17:56.716428+00:00",
+      "executionMode": "Play",
+      "state": "An actual corn harvest displays one returned seed, three corn and eight XP. This is earned Studio session progress. It does not establish durable rejoin or final artwork.",
+      "privacy": "game-world-only",
+      "sha256": "ebd6d97281f43b703d7de4b08718b368da9c68bf1952531630bff3f6a87cec80",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
+    {
+      "id": "automatic-starter-navigation",
+      "image": "automatic-starter-navigation.png",
+      "category": "development-verification",
+      "capturedAt": "2026-09-23T04:15:27.007165+00:00",
+      "executionMode": "Play",
+      "state": "The physical starter board returns automatically after leaving the detailed terminal. Open Build was exercised from the front to construct the free silo and place soil. Lower crop choices use the scroll area. Board styling and scenery remain provisional.",
+      "privacy": "game-world-only",
+      "sha256": "912fc33ca8c592fd1cf71ffc215a2203f9834f02cf635ea44da294b19f6cfc09",
+      "sourceRef": "4c6c69473d436f48e435c80006fbe56c4520abb1"
+    },
     {
       "id": "personal-hall-circulation",
       "image": "personal-hall-circulation.png",

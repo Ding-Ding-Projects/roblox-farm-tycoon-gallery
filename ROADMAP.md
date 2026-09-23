@@ -1,3 +1,9 @@
+## Current 90-image update
+
+- [x] Add three reviewed original countdown, reward and automatic-navigation captures with validated UTC provenance.
+- [x] Preserve all 87 previous identities and bytes and maintain newest-first order.
+- [ ] Verify the exact deployed page, inventory and all 90 image deliveries.
+
 # Gallery roadmap
 
 ## Published
