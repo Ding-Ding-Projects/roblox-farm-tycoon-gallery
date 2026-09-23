@@ -1,8 +1,19 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 145,
+  "publishedCaptureCount": 146,
   "publishable": [
+    {
+      "id": "restroom-south-lounge-a6c298e",
+      "image": "restroom-south-lounge-a6c298e.jpg",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T18:16:30.292290+00:00",
+      "executionMode": "Play",
+      "state": "Original camera-only Play view of an earned and constructed personal restroom's south lounge. The new grounded rug and wall panel are visible, but the remaining bare floor and small seating are unfinished. The image does not prove door travel or furniture use in this revision.",
+      "privacy": "game-world-only",
+      "sha256": "7fc040645837bbe03537ae90a764a134b083713df9eefe732531b0b2742b84ee",
+      "sourceRef": "a6c298ecf19d1bc6c36389b1aa98522df66cf834"
+    },
     {
       "id": "restroom-lounge-6fe8a80",
       "image": "restroom-lounge-6fe8a80.jpg",

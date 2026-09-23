@@ -1,4 +1,10 @@
-## Current 145-image candidate
+## Current 146-image candidate
+
+- [x] Add the reviewed original south-lounge view with its validated UTC receipt, hash and explicit unfinished-artwork limit.
+- [x] Verify all 146 local image hashes, image decodes and static cards against newest-first inventory order.
+- [ ] Verify the public deployment, unauthenticated page and inventory bytes, and all 146 hosted image URLs and hashes.
+
+## Earlier 145-image delivery
 
 - [x] Add two privacy-reviewed original Play camera views with source receipt times and hashes, retaining the previous 143 records and image bytes.
 - [x] Restore the existing hall-north static card and verify all 145 cards follow the inventory's newest-first order.

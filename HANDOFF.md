@@ -1,4 +1,8 @@
-## Current 145-image candidate
+## Current 146-image candidate
+
+An avatar-free original from installed source `a6c298ecf19d1bc6c36389b1aa98522df66cf834` shows the south lounge of an earned, constructed restroom. Its validated UTC time is `2026-09-23T18:16:30.292290+00:00` and image SHA-256 is `7fc040645837bbe03537ae90a764a134b083713df9eefe732531b0b2742b84ee`. The camera-only view shows the new rug and panel plus remaining sparse furniture. All 146 local images decode and match their inventory hashes, and all 146 static cards match inventory order. Public deployment for the 146-image candidate is pending. Earlier 145-image delivery remains documented below.
+
+## Earlier 145-image delivery
 
 Two avatar-free camera-only Play originals inspect the earned personal restroom under installed source `6fe8a80343a8eab1c804ae7725fb79f3174a1b51`. They show reduced light spill and two lounge pendants, while sparse furniture remains obvious. The avatar-containing walked view remains private. The previous 143 inventory records and image hashes match, every local image decodes, all 145 static cards align with inventory order, and no image hash differs. The previously missing static card for the existing hall-north record is restored. Source route evidence is at source pre-dew `1d07cb306245e0de5e7e2997ef7bce1a4ced02e6`. Public deployment `35899438133` succeeded from `8ab6348`; unauthenticated page and inventory bytes matched that exact revision, and all 145 public image URL hashes matched. The repository is public. [Delivery receipt](evidence/gallery-145-live.json) records the limits. No Roblox publication or purchase occurred.
 
