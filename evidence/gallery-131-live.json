@@ -1,0 +1,33 @@
+{
+  "verifiedAtUtc": "2026-09-23T06:51:03.072610+00:00",
+  "visibility": "PUBLIC",
+  "sourceRef": "2a0104aa28698abc490010daa745934e62494024",
+  "runId": 35828556141,
+  "runUrl": "https://github.com/Ding-Ding-Projects/roblox-farm-tycoon-gallery/actions/runs/35828556141",
+  "runHead": "2a0104aa28698abc490010daa745934e62494024",
+  "runStatus": "completed",
+  "runConclusion": "success",
+  "publicPageHttp": 200,
+  "publicPageExactGitBlob": true,
+  "pageSha256": "93571d799b66da34f483aa6c927fc8959da6bc13a7ca908779c0400c6e09b144",
+  "publicInventoryHttp": 200,
+  "publicInventoryExactGitBlob": true,
+  "inventorySha256": "575acc8f8363d42488f0ac0e4a8cc86868576d493c50a581daebf65e9e5c96a2",
+  "declaredImages": 131,
+  "remoteImageHashesMatched": 131,
+  "remoteImageMismatches": 0,
+  "remoteImageBytes": 37969569,
+  "previous129RecordsPreserved": true,
+  "previous129ImageBytesMatched": 129,
+  "newestDatedIds": [
+    "board-build-645f4cc",
+    "board-bilingual-645f4cc"
+  ],
+  "pageCards": 131,
+  "staticPageCardsExactInventoryOrder": true,
+  "rawInventoryDatedDescending": true,
+  "unavailableDateLast": true,
+  "publicTextPrivacyScanPassed": true,
+  "method": "Unauthenticated HTTP readback of the exact committed page and inventory, all 131 decoded image hashes, and byte-for-byte comparison of the previous 129 images and inventory records with the b2b7337 baseline.",
+  "limitations": "Browser interaction was not repeated. This proves public delivery of reviewed development observations, not published game startup, durable behavior, completion of detailed-panel styling or localization, other viewport sizes, touch or controller input."
+}
