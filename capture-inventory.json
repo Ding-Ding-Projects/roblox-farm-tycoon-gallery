@@ -1,8 +1,74 @@
 {
   "schemaVersion": 2,
   "generatedFrom": "validated capture receipts",
-  "publishedCaptureCount": 135,
+  "publishedCaptureCount": 141,
   "publishable": [
+    {
+      "id": "tutorial-close-dismissed-cdce7ac",
+      "image": "tutorial-close-dismissed-cdce7ac.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:26:12.629374+00:00",
+      "executionMode": "Play",
+      "state": "After recorded actual Hide tips input, the tutorial is absent and the physical silo board remains visible without opening the detailed terminal. This separate camera view does not itself prove the click. Artwork, other camera angles and durable behavior remain unverified.",
+      "privacy": "game-world-only",
+      "sha256": "c839ce1b1b1f096c307dc1134644f0e3c6e8e028b0edb4eb75dabd86ccd28bd4",
+      "sourceRef": "cdce7ac6e765ba91fa54fa406e1752ea55339612"
+    },
+    {
+      "id": "tutorial-close-bilingual-help-cdce7ac",
+      "image": "tutorial-close-bilingual-help-cdce7ac.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:26:10.914952+00:00",
+      "executionMode": "Play",
+      "state": "The bilingual expanded Help card is readable beside the physical silo board after separately recorded actual Help input. This view does not establish all camera angles, device sizes or final artwork.",
+      "privacy": "game-world-only",
+      "sha256": "d5e08c5520a03fce74ae825c5115edd57250c6d604cfaf7ecbb4e5eece62d282",
+      "sourceRef": "cdce7ac6e765ba91fa54fa406e1752ea55339612"
+    },
+    {
+      "id": "tutorial-close-bilingual-cdce7ac",
+      "image": "tutorial-close-bilingual-cdce7ac.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:26:09.153803+00:00",
+      "executionMode": "Play",
+      "state": "The compact bilingual tutorial's Help and Hide tips controls are visible ahead of the silo board at this camera. The card still overlaps the central Crop silo heading and touches the top stats bar. This is an intermediate layout observation, not final placement acceptance.",
+      "privacy": "game-world-only",
+      "sha256": "c9cae37b751575dac54922eb55c94c32bc3e37f4be29d1e1b4c3d5b92490c74a",
+      "sourceRef": "cdce7ac6e765ba91fa54fa406e1752ea55339612"
+    },
+    {
+      "id": "tutorial-close-less-cdce7ac",
+      "image": "tutorial-close-less-cdce7ac.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:26:05.062635+00:00",
+      "executionMode": "Play",
+      "state": "The compact English tutorial is visible again after separately recorded actual Less input. Help and Hide tips controls sit ahead of the physical silo board at this angle; the detailed terminal remained closed. Other camera angles and final art are unverified.",
+      "privacy": "game-world-only",
+      "sha256": "c5e4f9c542d651d02203d8ba98f989a059eb3005d501c7ed0b4cb3e01eecbe97",
+      "sourceRef": "cdce7ac6e765ba91fa54fa406e1752ea55339612"
+    },
+    {
+      "id": "tutorial-close-help-cdce7ac",
+      "image": "tutorial-close-help-cdce7ac.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:26:03.329945+00:00",
+      "executionMode": "Play",
+      "state": "The English expanded Help card is readable beside the silo board after separately recorded actual Help input; the detailed terminal remained closed. This camera view does not establish all-angle placement or final artwork.",
+      "privacy": "game-world-only",
+      "sha256": "3cdd8a1c87f598f8bcab7cb55cea43f58bfe5bf282c33e4029ba63b47fc4c291",
+      "sourceRef": "cdce7ac6e765ba91fa54fa406e1752ea55339612"
+    },
+    {
+      "id": "tutorial-close-english-cdce7ac",
+      "image": "tutorial-close-english-cdce7ac.png",
+      "category": "development-observation",
+      "capturedAt": "2026-09-23T07:26:01.551161+00:00",
+      "executionMode": "Play",
+      "state": "The compact English tutorial and both controls are visible ahead of the silo board at the previously obstructed camera. Input is recorded separately; this image does not prove a click or final placement across other angles. Artwork remains unfinished.",
+      "privacy": "game-world-only",
+      "sha256": "ff6098f2127ec0f005f1f04b6b58c03a6da164091cbc02078e1347b8f91a8492",
+      "sourceRef": "cdce7ac6e765ba91fa54fa406e1752ea55339612"
+    },
     {
       "id": "silo-category-bilingual-2cba66d",
       "image": "silo-category-bilingual-2cba66d.png",

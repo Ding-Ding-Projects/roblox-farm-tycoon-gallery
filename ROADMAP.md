@@ -1,3 +1,11 @@
+## Current 141-image update
+
+- [x] Add six pixel-reviewed original close-camera tutorial observations with validated UTC receipts, preserving all 135 earlier records and image bytes.
+- [x] Distinguish separately recorded actual input from camera views and label the remaining compact bilingual overlap and unfinished art.
+- [x] Check 141 local image hashes, decodes, chronological order, static cards and public privacy.
+- [x] Preserve and verify the six raw source captures and receipts in source history before public delivery.
+- [ ] Verify public deployment, visibility, exact page and inventory readback, and all 141 image hashes after integration.
+
 ## Current 135-image update
 
 - [x] Add two reviewed original English and bilingual silo-category Play captures with validated UTC receipts, preserving all 133 earlier records and image bytes.
